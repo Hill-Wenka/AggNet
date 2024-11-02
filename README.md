@@ -12,3 +12,6 @@ conda activate GPTDesign
 conda install pytorch==2.4.0 torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install matplotlib ipywidgets jupyterlab python-Levenshtein scikit-learn numba easydict aaindex tqdm numpy scipy pandas seaborn tensorboard biopython h5py loguru omegaconf openpyxl einops redis biotite fair-esm lightning torch_geometric 
 ```
+
+# Download the model checkpoint
+APNet: https://drive.google.com/file/d/1inplkuo_EqtO-HwAs-UXEIhExxDE6uKt/view?usp=sharing
