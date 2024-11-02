@@ -1,0 +1,28 @@
+tokenization:
+  alphabet: ESM-1b
+  truncation_seq_length: null
+train_dataloader:
+  batch_size: 32
+  num_workers: 8
+  shuffle: true
+  drop_last: true
+  pin_memory: true
+  persistent_workers: true
+valid_dataloader:
+  batch_size: 32
+  num_workers: 8
+  shuffle: false
+  pin_memory: true
+  persistent_workers: true
+test_dataloader:
+  batch_size: 32
+  num_workers: 8
+  shuffle: false
+  pin_memory: false
+  persistent_workers: false
+predict_dataloader:
+  batch_size: 32
+  num_workers: 8
+  shuffle: false
+  pin_memory: false
+  persistent_workers: false

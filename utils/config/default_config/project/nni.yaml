@@ -1,0 +1,5 @@
+nni:
+  auto_ml: false
+  metric: 'AUC'
+  mode: 'max'
+  use_best: true
