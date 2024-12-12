@@ -57,7 +57,7 @@ python ./script/predict_amyloid.py -h
 
 --------------------------------------------------------------------------------
 
-nalyze Aggregation Profile or Identify APR of Proteins using APRNet
+Analyze Aggregation Profile or Identify APR of Proteins using APRNet
 
 options:
   -h, --help            show this help message and exit
