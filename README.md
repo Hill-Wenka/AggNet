@@ -33,7 +33,7 @@ python ./script/predict_amyloid.py -h
 
 --------------------------------------------------------------------------------
 
-Predict amyloidogenic peptides using APNet
+Predict Amyloidogenic Peptides using APNet
 
 options:
   -h, --help            show this help message and exit
