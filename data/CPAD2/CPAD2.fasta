@@ -1,0 +1,4066 @@
+>P-0001, amyloid, label=1
+GYE
+>P-0002, amyloid, label=1
+KFFE
+>P-0003, amyloid, label=1
+KVVE
+>P-0004, amyloid, label=1
+NNQQ
+>P-0005, non-amyloid, label=0
+VKSE
+>P-0006, amyloid, label=1
+AILSS
+>P-0007, non-amyloid, label=0
+APGET
+>P-0008, amyloid, label=1
+DFNKF
+>P-0009, amyloid, label=1
+DYFLF
+>P-0010, amyloid, label=1
+FGAIL
+>P-0011, amyloid, label=1
+FLVHS
+>P-0012, amyloid, label=1
+GVVIA
+>P-0013, non-amyloid, label=0
+KLVFF
+>P-0014, amyloid, label=1
+LQVVR
+>P-0015, amyloid, label=1
+LVFFA
+>P-0016, amyloid, label=1
+NFGSV
+>P-0017, amyloid, label=1
+NFLVH
+>P-0018, amyloid, label=1
+QIVAG
+>P-0019, amyloid, label=1
+QQQQQ
+>P-0020, non-amyloid, label=0
+RDNSA
+>P-0021, non-amyloid, label=0
+SEFSV
+>P-0022, non-amyloid, label=0
+AAAQAA
+>P-0023, non-amyloid, label=0
+AAELRN
+>P-0024, non-amyloid, label=0
+AAIDWF
+>P-0025, non-amyloid, label=0
+AAIGWG
+>P-0026, amyloid, label=1
+AAIIGQ
+>P-0027, non-amyloid, label=0
+AALQSS
+>P-0028, non-amyloid, label=0
+AAPKPK
+>P-0029, non-amyloid, label=0
+AAQAAL
+>P-0030, non-amyloid, label=0
+AARRFF
+>P-0031, amyloid, label=1
+AATVYV
+>P-0032, non-amyloid, label=0
+AAVDQT
+>P-0033, non-amyloid, label=0
+ACGVIG
+>P-0034, non-amyloid, label=0
+ADVGQG
+>P-0035, non-amyloid, label=0
+ADVSIE
+>P-0036, non-amyloid, label=0
+AEKLFD
+>P-0037, non-amyloid, label=0
+AEMEYL
+>P-0038, non-amyloid, label=0
+AENGKS
+>P-0039, non-amyloid, label=0
+AESDKK
+>P-0040, non-amyloid, label=0
+AETKEP
+>P-0041, non-amyloid, label=0
+AEVLAL
+>P-0042, amyloid, label=1
+AEVVFT
+>P-0043, non-amyloid, label=0
+AFSINP
+>P-0044, non-amyloid, label=0
+AGFQPQ
+>P-0045, non-amyloid, label=0
+AGGYYQ
+>P-0046, non-amyloid, label=0
+AGSGSG
+>P-0047, amyloid, label=1
+AGVNYF
+>P-0048, non-amyloid, label=0
+AGYQQQ
+>P-0049, non-amyloid, label=0
+AIDWFD
+>P-0050, non-amyloid, label=0
+AIGWGS
+>P-0051, amyloid, label=1
+AIIGLM
+>P-0052, amyloid, label=1
+AILSST
+>P-0053, non-amyloid, label=0
+AINKIQ
+>P-0054, non-amyloid, label=0
+AISNNN
+>P-0055, amyloid, label=1
+AIVAGD
+>P-0056, amyloid, label=1
+AIVAGS
+>P-0057, amyloid, label=1
+AIVAGT
+>P-0058, non-amyloid, label=0
+ALALQT
+>P-0059, amyloid, label=1
+ALEEYT
+>P-0060, non-amyloid, label=0
+ALQSSW
+>P-0061, non-amyloid, label=0
+ALQTDA
+>P-0062, non-amyloid, label=0
+AMMAAA
+>P-0063, non-amyloid, label=0
+AMNITN
+>P-0064, non-amyloid, label=0
+ANATKK
+>P-0065, amyloid, label=1
+ANFLVH
+>P-0066, non-amyloid, label=0
+ANNNSN
+>P-0067, non-amyloid, label=0
+ANNYSS
+>P-0068, non-amyloid, label=0
+APKPKK
+>P-0069, non-amyloid, label=0
+AQAALQ
+>P-0070, non-amyloid, label=0
+AQAQPA
+>P-0071, amyloid, label=1
+AQFIIS
+>P-0072, non-amyloid, label=0
+AQIVYK
+>P-0073, non-amyloid, label=0
+AQPAGG
+>P-0074, non-amyloid, label=0
+ASNAGS
+>P-0075, non-amyloid, label=0
+ASQQNQ
+>P-0076, non-amyloid, label=0
+ASRQNQ
+>P-0077, amyloid, label=1
+ASSSNY
+>P-0078, non-amyloid, label=0
+ATAHQY
+>P-0079, non-amyloid, label=0
+ATKKVD
+>P-0080, non-amyloid, label=0
+ATLDQW
+>P-0081, non-amyloid, label=0
+ATTRTV
+>P-0082, amyloid, label=1
+ATVIIE
+>P-0083, amyloid, label=1
+ATVQAF
+>P-0084, non-amyloid, label=0
+ATVSFD
+>P-0085, non-amyloid, label=0
+AVDQTA
+>P-0086, amyloid, label=1
+AVFIIY
+>P-0087, non-amyloid, label=0
+AVTTGV
+>P-0088, non-amyloid, label=0
+AYNAQA
+>P-0089, amyloid, label=1
+CATVYV
+>P-0090, amyloid, label=1
+CGVIGI
+>P-0091, amyloid, label=1
+CILFWG
+>P-0092, non-amyloid, label=0
+CPSGNN
+>P-0093, amyloid, label=1
+CQIVYK
+>P-0094, amyloid, label=1
+CQVNIG
+>P-0095, amyloid, label=1
+CTIYWG
+>P-0096, amyloid, label=1
+CTLWWG
+>P-0097, amyloid, label=1
+CTVFIG
+>P-0098, amyloid, label=1
+CTVWWG
+>P-0099, non-amyloid, label=0
+DADLYL
+>P-0100, non-amyloid, label=0
+DAGYQQ
+>P-0101, non-amyloid, label=0
+DATVYV
+>P-0102, non-amyloid, label=0
+DAVKIS
+>P-0103, amyloid, label=1
+DCVNIT
+>P-0104, non-amyloid, label=0
+DDSLFF
+>P-0105, non-amyloid, label=0
+DECFFF
+>P-0106, non-amyloid, label=0
+DENNTF
+>P-0107, non-amyloid, label=0
+DETVIV
+>P-0108, amyloid, label=1
+DFNKFH
+>P-0109, non-amyloid, label=0
+DFQKQQ
+>P-0110, amyloid, label=1
+DHCIIG
+>P-0111, amyloid, label=1
+DHCIIW
+>P-0112, amyloid, label=1
+DIDLHL
+>P-0113, non-amyloid, label=0
+DIEVDL
+>P-0114, non-amyloid, label=0
+DILTYT
+>P-0115, non-amyloid, label=0
+DKKEEE
+>P-0116, non-amyloid, label=0
+DLLKNG
+>P-0117, non-amyloid, label=0
+DLTITQ
+>P-0118, non-amyloid, label=0
+DLTQRG
+>P-0119, non-amyloid, label=0
+DNNTIF
+>P-0120, amyloid, label=1
+DQIVYK
+>P-0121, non-amyloid, label=0
+DQTASN
+>P-0122, non-amyloid, label=0
+DQWNGK
+>P-0123, non-amyloid, label=0
+DSNQGN
+>P-0124, amyloid, label=1
+DSVISL
+>P-0125, non-amyloid, label=0
+DTKPAE
+>P-0126, amyloid, label=1
+DTVIIE
+>P-0127, non-amyloid, label=0
+DVGQGS
+>P-0128, non-amyloid, label=0
+DVNRNG
+>P-0129, non-amyloid, label=0
+DVSIED
+>P-0130, non-amyloid, label=0
+EALYLV
+>P-0131, non-amyloid, label=0
+EATVSF
+>P-0132, non-amyloid, label=0
+EATVYV
+>P-0133, non-amyloid, label=0
+ECFFFE
+>P-0134, non-amyloid, label=0
+EDSVIS
+>P-0135, non-amyloid, label=0
+EECLFL
+>P-0136, non-amyloid, label=0
+EEEKSA
+>P-0137, non-amyloid, label=0
+EEKKEE
+>P-0138, non-amyloid, label=0
+EEKPVQ
+>P-0139, non-amyloid, label=0
+EEKSAE
+>P-0140, non-amyloid, label=0
+EEKSEL
+>P-0141, non-amyloid, label=0
+EEPVKK
+>P-0142, amyloid, label=1
+EGVLYV
+>P-0143, non-amyloid, label=0
+EHSDLS
+>P-0144, non-amyloid, label=0
+EIPAGV
+>P-0145, non-amyloid, label=0
+EKDEYA
+>P-0146, non-amyloid, label=0
+EKKEEK
+>P-0147, non-amyloid, label=0
+EKNLYL
+>P-0148, non-amyloid, label=0
+EKPVQT
+>P-0149, non-amyloid, label=0
+EKSAET
+>P-0150, non-amyloid, label=0
+EKSELP
+>P-0151, non-amyloid, label=0
+ELNIYQ
+>P-0152, non-amyloid, label=0
+ELPKVE
+>P-0153, non-amyloid, label=0
+EMTVKQ
+>P-0154, non-amyloid, label=0
+EPTKVE
+>P-0155, non-amyloid, label=0
+EPTREP
+>P-0156, non-amyloid, label=0
+EPVKKE
+>P-0157, amyloid, label=1
+EQIVYK
+>P-0158, non-amyloid, label=0
+ERGFFY
+>P-0159, non-amyloid, label=0
+ERIEKV
+>P-0160, non-amyloid, label=0
+ESDKKE
+>P-0161, non-amyloid, label=0
+ESNTNN
+>P-0162, non-amyloid, label=0
+ETKEPT
+>P-0163, amyloid, label=1
+ETVIIE
+>P-0164, non-amyloid, label=0
+ETVIVI
+>P-0165, non-amyloid, label=0
+ETWFFG
+>P-0166, non-amyloid, label=0
+ETYVVT
+>P-0167, non-amyloid, label=0
+EVDLLK
+>P-0168, non-amyloid, label=0
+EVTTGV
+>P-0169, non-amyloid, label=0
+EYLKIA
+>P-0170, amyloid, label=1
+EYSNFS
+>P-0171, amyloid, label=1
+FAIRHF
+>P-0172, amyloid, label=1
+FATVYV
+>P-0173, amyloid, label=1
+FDTAST
+>P-0174, non-amyloid, label=0
+FERQHM
+>P-0175, amyloid, label=1
+FESNFN
+>P-0176, non-amyloid, label=0
+FFNLNN
+>P-0177, non-amyloid, label=0
+FFWRFM
+>P-0178, non-amyloid, label=0
+FFYTPK
+>P-0179, non-amyloid, label=0
+FGAFSI
+>P-0180, non-amyloid, label=0
+FGELFE
+>P-0181, non-amyloid, label=0
+FGGGNG
+>P-0182, non-amyloid, label=0
+FGNNAT
+>P-0183, non-amyloid, label=0
+FGNQSG
+>P-0184, non-amyloid, label=0
+FGNSAT
+>P-0185, non-amyloid, label=0
+FGNSRG
+>P-0186, non-amyloid, label=0
+FGTFSI
+>P-0187, non-amyloid, label=0
+FHPSDI
+>P-0188, non-amyloid, label=0
+FINYTN
+>P-0189, amyloid, label=1
+FIVNIV
+>P-0190, non-amyloid, label=0
+FKQIGI
+>P-0191, non-amyloid, label=0
+FLKYFT
+>P-0192, amyloid, label=1
+FLVHSS
+>P-0193, non-amyloid, label=0
+FMFFII
+>P-0194, non-amyloid, label=0
+FMFNDL
+>P-0195, non-amyloid, label=0
+FMSNDL
+>P-0196, non-amyloid, label=0
+FNKFGG
+>P-0197, non-amyloid, label=0
+FNPQGG
+>P-0198, non-amyloid, label=0
+FNYNNN
+>P-0199, amyloid, label=1
+FQIVYK
+>P-0200, non-amyloid, label=0
+FQKQQK
+>P-0201, non-amyloid, label=0
+FQPQSQ
+>P-0202, amyloid, label=1
+FSINPA
+>P-0203, non-amyloid, label=0
+FSKDWS
+>P-0204, non-amyloid, label=0
+FSNATN
+>P-0205, amyloid, label=1
+FTFIQF
+>P-0206, non-amyloid, label=0
+FTPTEK
+>P-0207, amyloid, label=1
+FTVIIE
+>P-0208, amyloid, label=1
+FVFYIF
+>P-0209, non-amyloid, label=0
+FVNQHL
+>P-0210, amyloid, label=1
+FYLLYY
+>P-0211, non-amyloid, label=0
+FYTPKT
+>P-0212, non-amyloid, label=0
+GAAIGW
+>P-0213, non-amyloid, label=0
+GAAVDQ
+>P-0214, non-amyloid, label=0
+GADVGQ
+>P-0215, non-amyloid, label=0
+GAFSIN
+>P-0216, amyloid, label=1
+GAIIGL
+>P-0217, amyloid, label=1
+GAILSS
+>P-0218, amyloid, label=1
+GAITIG
+>P-0219, amyloid, label=1
+GATVYV
+>P-0220, amyloid, label=1
+GDCFIL
+>P-0221, amyloid, label=1
+GDHCII
+>P-0222, amyloid, label=1
+GDVIEV
+>P-0223, amyloid, label=1
+GDVIEW
+>P-0224, non-amyloid, label=0
+GEATVS
+>P-0225, amyloid, label=1
+GELAVA
+>P-0226, non-amyloid, label=0
+GERGFF
+>P-0227, amyloid, label=1
+GEWTYD
+>P-0228, non-amyloid, label=0
+GFFNLQ
+>P-0229, amyloid, label=1
+GFFQQQ
+>P-0230, non-amyloid, label=0
+GFFYTP
+>P-0231, non-amyloid, label=0
+GFGNNA
+>P-0232, non-amyloid, label=0
+GFGNQS
+>P-0233, non-amyloid, label=0
+GFGNSA
+>P-0234, non-amyloid, label=0
+GFGNSR
+>P-0235, non-amyloid, label=0
+GFNKFG
+>P-0236, non-amyloid, label=0
+GFNNSA
+>P-0237, non-amyloid, label=0
+GFNNTP
+>P-0238, non-amyloid, label=0
+GFPGSF
+>P-0239, non-amyloid, label=0
+GFQPQS
+>P-0240, non-amyloid, label=0
+GFSGSF
+>P-0241, non-amyloid, label=0
+GFSNNN
+>P-0242, non-amyloid, label=0
+GGFGNQ
+>P-0243, non-amyloid, label=0
+GGFNKF
+>P-0244, non-amyloid, label=0
+GGGGNH
+>P-0245, non-amyloid, label=0
+GGGGNN
+>P-0246, non-amyloid, label=0
+GGGMNF
+>P-0247, non-amyloid, label=0
+GGGNGA
+>P-0248, non-amyloid, label=0
+GGGNHG
+>P-0249, amyloid, label=1
+GGGNNS
+>P-0250, non-amyloid, label=0
+GGGNSA
+>P-0251, non-amyloid, label=0
+GGMNFG
+>P-0252, non-amyloid, label=0
+GGNGAA
+>P-0253, non-amyloid, label=0
+GGNGAD
+>P-0254, non-amyloid, label=0
+GGNHGG
+>P-0255, non-amyloid, label=0
+GGNNSG
+>P-0256, non-amyloid, label=0
+GGNSAL
+>P-0257, non-amyloid, label=0
+GGQQQS
+>P-0258, non-amyloid, label=0
+GGRGNY
+>P-0259, amyloid, label=1
+GGVLVN
+>P-0260, amyloid, label=1
+GGVVIA
+>P-0261, amyloid, label=1
+GGYLLG
+>P-0262, amyloid, label=1
+GGYMLG
+>P-0263, non-amyloid, label=0
+GGYQQQ
+>P-0264, non-amyloid, label=0
+GGYQQY
+>P-0265, amyloid, label=1
+GGYVLG
+>P-0266, non-amyloid, label=0
+GGYYQN
+>P-0267, amyloid, label=1
+GIFNIK
+>P-0268, non-amyloid, label=0
+GIIKTN
+>P-0269, non-amyloid, label=0
+GIKLAN
+>P-0270, amyloid, label=1
+GIVIVA
+>P-0271, non-amyloid, label=0
+GKQAYQ
+>P-0272, non-amyloid, label=0
+GKQGYQ
+>P-0273, amyloid, label=1
+GLCYFN
+>P-0274, amyloid, label=1
+GLFINM
+>P-0275, non-amyloid, label=0
+GLLLWQ
+>P-0276, amyloid, label=1
+GLSIFV
+>P-0277, non-amyloid, label=0
+GMFNIQ
+>P-0278, non-amyloid, label=0
+GMLASQ
+>P-0279, non-amyloid, label=0
+GMLASR
+>P-0280, amyloid, label=1
+GMMGML
+>P-0281, non-amyloid, label=0
+GMNFGA
+>P-0282, non-amyloid, label=0
+GMNFGT
+>P-0283, non-amyloid, label=0
+GMSLND
+>P-0284, amyloid, label=1
+GNCFIL
+>P-0285, amyloid, label=1
+GNFNNL
+>P-0286, non-amyloid, label=0
+GNGAAV
+>P-0287, non-amyloid, label=0
+GNGADV
+>P-0288, non-amyloid, label=0
+GNHGGG
+>P-0289, non-amyloid, label=0
+GNNATA
+>P-0290, non-amyloid, label=0
+GNNQQN
+>P-0291, non-amyloid, label=0
+GNNRYQ
+>P-0292, non-amyloid, label=0
+GNNSGP
+>P-0293, non-amyloid, label=0
+GNNSYS
+>P-0294, non-amyloid, label=0
+GNQQQG
+>P-0295, non-amyloid, label=0
+GNQSGF
+>P-0296, non-amyloid, label=0
+GNSALA
+>P-0297, non-amyloid, label=0
+GNSATL
+>P-0298, amyloid, label=1
+GNTCVN
+>P-0299, amyloid, label=1
+GNVAVA
+>P-0300, amyloid, label=1
+GNVCIN
+>P-0301, non-amyloid, label=0
+GNYKNF
+>P-0302, non-amyloid, label=0
+GQGSDD
+>P-0303, non-amyloid, label=0
+GQIVYK
+>P-0304, non-amyloid, label=0
+GQNNTQ
+>P-0305, non-amyloid, label=0
+GQQNQY
+>P-0306, non-amyloid, label=0
+GQQQSY
+>P-0307, non-amyloid, label=0
+GQQSYS
+>P-0308, non-amyloid, label=0
+GQSSYS
+>P-0309, non-amyloid, label=0
+GRGNYK
+>P-0310, non-amyloid, label=0
+GRIGIA
+>P-0311, non-amyloid, label=0
+GSASNA
+>P-0312, non-amyloid, label=0
+GSGFNG
+>P-0313, non-amyloid, label=0
+GSGSGF
+>P-0314, non-amyloid, label=0
+GSHLVE
+>P-0315, amyloid, label=1
+GSIAAT
+>P-0316, non-amyloid, label=0
+GSNNTF
+>P-0317, non-amyloid, label=0
+GSNSGA
+>P-0318, amyloid, label=1
+GTFFIN
+>P-0319, amyloid, label=1
+GTFFIT
+>P-0320, non-amyloid, label=0
+GTFFQE
+>P-0321, amyloid, label=1
+GTFNII
+>P-0322, non-amyloid, label=0
+GTFSIN
+>P-0323, amyloid, label=1
+GTLFWG
+>P-0324, amyloid, label=1
+GTLVFM
+>P-0325, amyloid, label=1
+GTVIIE
+>P-0326, amyloid, label=1
+GTVLFM
+>P-0327, amyloid, label=1
+GTVWWG
+>P-0328, amyloid, label=1
+GVATVA
+>P-0329, non-amyloid, label=0
+GVFNNQ
+>P-0330, amyloid, label=1
+GVIGIA
+>P-0331, amyloid, label=1
+GVIWIA
+>P-0332, non-amyloid, label=0
+GVNNNN
+>P-0333, amyloid, label=1
+GVNYFL
+>P-0334, non-amyloid, label=0
+GVPGIA
+>P-0335, amyloid, label=1
+GVQVGD
+>P-0336, non-amyloid, label=0
+GVTIIT
+>P-0337, non-amyloid, label=0
+GVVPQY
+>P-0338, amyloid, label=1
+GVVTSE
+>P-0339, non-amyloid, label=0
+GVVVVT
+>P-0340, amyloid, label=1
+GVWWFF
+>P-0341, non-amyloid, label=0
+GWGSAS
+>P-0342, amyloid, label=1
+GYCFIL
+>P-0343, amyloid, label=1
+GYFILQ
+>P-0344, amyloid, label=1
+GYFLNF
+>P-0345, amyloid, label=1
+GYFLNM
+>P-0346, non-amyloid, label=0
+GYGQSS
+>P-0347, amyloid, label=1
+GYMLGS
+>P-0348, non-amyloid, label=0
+GYQAGF
+>P-0349, non-amyloid, label=0
+GYQAYN
+>P-0350, non-amyloid, label=0
+GYQQGG
+>P-0351, non-amyloid, label=0
+GYQQQF
+>P-0352, non-amyloid, label=0
+GYQQQY
+>P-0353, non-amyloid, label=0
+GYQQYN
+>P-0354, non-amyloid, label=0
+GYSGYQ
+>P-0355, amyloid, label=1
+GYVIIK
+>P-0356, amyloid, label=1
+GYVLGS
+>P-0357, non-amyloid, label=0
+GYYQNY
+>P-0358, non-amyloid, label=0
+HAFLII
+>P-0359, amyloid, label=1
+HATVYV
+>P-0360, amyloid, label=1
+HFVWIA
+>P-0361, amyloid, label=1
+HGFNQQ
+>P-0362, non-amyloid, label=0
+HGGGGN
+>P-0363, non-amyloid, label=0
+HGGGNG
+>P-0364, amyloid, label=1
+HGWLIM
+>P-0365, amyloid, label=1
+HICNFF
+>P-0366, non-amyloid, label=0
+HIFIIM
+>P-0367, amyloid, label=1
+HIFLLC
+>P-0368, non-amyloid, label=0
+HKALFW
+>P-0369, amyloid, label=1
+HLFNLT
+>P-0370, non-amyloid, label=0
+HLVEAL
+>P-0371, amyloid, label=1
+HLVYIM
+>P-0372, non-amyloid, label=0
+HNNNNN
+>P-0373, non-amyloid, label=0
+HNNNSQ
+>P-0374, non-amyloid, label=0
+HNSVNF
+>P-0375, non-amyloid, label=0
+HNTNNA
+>P-0376, non-amyloid, label=0
+HPAENG
+>P-0377, amyloid, label=1
+HQFNLN
+>P-0378, non-amyloid, label=0
+HQIVYK
+>P-0379, amyloid, label=1
+HQLIIM
+>P-0380, amyloid, label=1
+HSSNNF
+>P-0381, non-amyloid, label=0
+HTAVTT
+>P-0382, amyloid, label=1
+HTFNLL
+>P-0383, amyloid, label=1
+HTVIIE
+>P-0384, non-amyloid, label=0
+HWQNFA
+>P-0385, non-amyloid, label=0
+HWRNFA
+>P-0386, amyloid, label=1
+HYFNIF
+>P-0387, amyloid, label=1
+IATVYV
+>P-0388, non-amyloid, label=0
+ICSLYQ
+>P-0389, non-amyloid, label=0
+IDLTQR
+>P-0390, non-amyloid, label=0
+IEDSVI
+>P-0391, non-amyloid, label=0
+IEKVEH
+>P-0392, amyloid, label=1
+IEMIFV
+>P-0393, amyloid, label=1
+IFDFIQ
+>P-0394, non-amyloid, label=0
+IFNYNN
+>P-0395, amyloid, label=1
+IFQINS
+>P-0396, non-amyloid, label=0
+IGIIKT
+>P-0397, non-amyloid, label=0
+IGNNSI
+>P-0398, non-amyloid, label=0
+IGRTLV
+>P-0399, non-amyloid, label=0
+IGRTLW
+>P-0400, non-amyloid, label=0
+IGWGSA
+>P-0401, non-amyloid, label=0
+IHKAQN
+>P-0402, amyloid, label=1
+IIGLMV
+>P-0403, amyloid, label=1
+IIHFGS
+>P-0404, non-amyloid, label=0
+IINFEQ
+>P-0405, amyloid, label=1
+IINFIT
+>P-0406, non-amyloid, label=0
+IIPFEQ
+>P-0407, non-amyloid, label=0
+IITVTN
+>P-0408, amyloid, label=1
+IKGAIK
+>P-0409, non-amyloid, label=0
+IKLANA
+>P-0410, non-amyloid, label=0
+ILENIS
+>P-0411, non-amyloid, label=0
+ILGSNN
+>P-0412, amyloid, label=1
+ILQINS
+>P-0413, amyloid, label=1
+ILVAGD
+>P-0414, amyloid, label=1
+ILVAGS
+>P-0415, non-amyloid, label=0
+INLYTD
+>P-0416, non-amyloid, label=0
+INNMTN
+>P-0417, non-amyloid, label=0
+INNVSN
+>P-0418, non-amyloid, label=0
+INPAMM
+>P-0419, amyloid, label=1
+IQIMIW
+>P-0420, amyloid, label=1
+IQIVYK
+>P-0421, non-amyloid, label=0
+IQNNSN
+>P-0422, non-amyloid, label=0
+IQRTPK
+>P-0423, non-amyloid, label=0
+IQVYSR
+>P-0424, amyloid, label=1
+ISFLIF
+>P-0425, non-amyloid, label=0
+ISLSGD
+>P-0426, non-amyloid, label=0
+ISMTTS
+>P-0427, amyloid, label=1
+ITLFWG
+>P-0428, non-amyloid, label=0
+ITQHGG
+>P-0429, amyloid, label=1
+ITVIIE
+>P-0430, non-amyloid, label=0
+ITVTND
+>P-0431, amyloid, label=1
+IVATTR
+>P-0432, non-amyloid, label=0
+IVIRTP
+>P-0433, non-amyloid, label=0
+IVIVAT
+>P-0434, amyloid, label=1
+IVYSCE
+>P-0435, amyloid, label=1
+IVYSWE
+>P-0436, non-amyloid, label=0
+IYFNVQ
+>P-0437, non-amyloid, label=0
+IYQYGG
+>P-0438, non-amyloid, label=0
+KAAIDW
+>P-0439, non-amyloid, label=0
+KAFIIQ
+>P-0440, non-amyloid, label=0
+KAILFL
+>P-0441, amyloid, label=1
+KAKEGV
+>P-0442, amyloid, label=1
+KATVYV
+>P-0443, amyloid, label=1
+KCLNYL
+>P-0444, amyloid, label=1
+KCWCFT
+>P-0445, amyloid, label=1
+KDWSFY
+>P-0446, non-amyloid, label=0
+KECLIN
+>P-0447, non-amyloid, label=0
+KEEEKS
+>P-0448, non-amyloid, label=0
+KEEKPV
+>P-0449, non-amyloid, label=0
+KEEKSE
+>P-0450, non-amyloid, label=0
+KENIIF
+>P-0451, non-amyloid, label=0
+KEPTRE
+>P-0452, non-amyloid, label=0
+KGENFT
+>P-0453, amyloid, label=1
+KHIIVA
+>P-0454, amyloid, label=1
+KIVKWD
+>P-0455, non-amyloid, label=0
+KKEEEK
+>P-0456, non-amyloid, label=0
+KKEEKP
+>P-0457, non-amyloid, label=0
+KKEEKS
+>P-0458, non-amyloid, label=0
+KKTLKL
+>P-0459, non-amyloid, label=0
+KKVDTK
+>P-0460, non-amyloid, label=0
+KLANAT
+>P-0461, amyloid, label=1
+KLFIIQ
+>P-0462, amyloid, label=1
+KLFIQF
+>P-0463, non-amyloid, label=0
+KLLEIA
+>P-0464, amyloid, label=1
+KLLIYE
+>P-0465, amyloid, label=1
+KLVFFA
+>P-0466, non-amyloid, label=0
+KLVSSS
+>P-0467, non-amyloid, label=0
+KMFFIQ
+>P-0468, amyloid, label=1
+KNEEGA
+>P-0469, non-amyloid, label=0
+KPAESD
+>P-0470, non-amyloid, label=0
+KPKKTL
+>P-0471, non-amyloid, label=0
+KPVQTE
+>P-0472, non-amyloid, label=0
+KQAAPK
+>P-0473, non-amyloid, label=0
+KQFGGG
+>P-0474, amyloid, label=1
+KQIGII
+>P-0475, amyloid, label=1
+KQIVYK
+>P-0476, non-amyloid, label=0
+KQQKQA
+>P-0477, non-amyloid, label=0
+KSAETK
+>P-0478, non-amyloid, label=0
+KSELPK
+>P-0479, non-amyloid, label=0
+KSHPET
+>P-0480, non-amyloid, label=0
+KSNFLN
+>P-0481, amyloid, label=1
+KTKEGV
+>P-0482, amyloid, label=1
+KTKEQV
+>P-0483, amyloid, label=1
+KTKQGV
+>P-0484, non-amyloid, label=0
+KTLKLV
+>P-0485, amyloid, label=1
+KTVEGA
+>P-0486, amyloid, label=1
+KTVIIE
+>P-0487, non-amyloid, label=0
+KTVIIT
+>P-0488, non-amyloid, label=0
+KTVIVE
+>P-0489, non-amyloid, label=0
+KTVIYE
+>P-0490, non-amyloid, label=0
+KTVLIE
+>P-0491, non-amyloid, label=0
+KVDTKP
+>P-0492, non-amyloid, label=0
+KVEDLK
+>P-0493, non-amyloid, label=0
+KVEEPV
+>P-0494, non-amyloid, label=0
+KVEHSD
+>P-0495, amyloid, label=1
+KVKVLG
+>P-0496, amyloid, label=1
+KVQIIN
+>P-0497, non-amyloid, label=0
+KWDRDM
+>P-0498, non-amyloid, label=0
+KYLNWD
+>P-0499, non-amyloid, label=0
+KYNNTG
+>P-0500, amyloid, label=1
+LAAVYV
+>P-0501, amyloid, label=1
+LACVYV
+>P-0502, non-amyloid, label=0
+LADVYV
+>P-0503, non-amyloid, label=0
+LAEAIG
+>P-0504, non-amyloid, label=0
+LAEVYV
+>P-0505, amyloid, label=1
+LAFVYV
+>P-0506, amyloid, label=1
+LAGVYV
+>P-0507, amyloid, label=1
+LAHVYV
+>P-0508, amyloid, label=1
+LAIVYV
+>P-0509, non-amyloid, label=0
+LAKVYV
+>P-0510, non-amyloid, label=0
+LALQTD
+>P-0511, amyloid, label=1
+LALVYV
+>P-0512, amyloid, label=1
+LAMVYV
+>P-0513, non-amyloid, label=0
+LANATK
+>P-0514, amyloid, label=1
+LANFLV
+>P-0515, amyloid, label=1
+LANVYV
+>P-0516, non-amyloid, label=0
+LAPVYV
+>P-0517, amyloid, label=1
+LAQVYV
+>P-0518, non-amyloid, label=0
+LARVYV
+>P-0519, non-amyloid, label=0
+LASQQN
+>P-0520, non-amyloid, label=0
+LASRQN
+>P-0521, amyloid, label=1
+LASVYV
+>P-0522, non-amyloid, label=0
+LATAYV
+>P-0523, amyloid, label=1
+LATCYV
+>P-0524, non-amyloid, label=0
+LATDYV
+>P-0525, non-amyloid, label=0
+LATEYV
+>P-0526, amyloid, label=1
+LATFYV
+>P-0527, non-amyloid, label=0
+LATGYV
+>P-0528, non-amyloid, label=0
+LATHYV
+>P-0529, amyloid, label=1
+LATIYV
+>P-0530, non-amyloid, label=0
+LATKYV
+>P-0531, amyloid, label=1
+LATLYV
+>P-0532, amyloid, label=1
+LATMYV
+>P-0533, non-amyloid, label=0
+LATNYV
+>P-0534, non-amyloid, label=0
+LATPYV
+>P-0535, non-amyloid, label=0
+LATQYV
+>P-0536, non-amyloid, label=0
+LATRYV
+>P-0537, non-amyloid, label=0
+LATSYV
+>P-0538, non-amyloid, label=0
+LATTYV
+>P-0539, amyloid, label=1
+LATVAV
+>P-0540, amyloid, label=1
+LATVCV
+>P-0541, amyloid, label=1
+LATVDV
+>P-0542, amyloid, label=1
+LATVEV
+>P-0543, amyloid, label=1
+LATVFV
+>P-0544, amyloid, label=1
+LATVGV
+>P-0545, amyloid, label=1
+LATVHV
+>P-0546, amyloid, label=1
+LATVIV
+>P-0547, amyloid, label=1
+LATVKV
+>P-0548, amyloid, label=1
+LATVLV
+>P-0549, amyloid, label=1
+LATVMV
+>P-0550, amyloid, label=1
+LATVNV
+>P-0551, amyloid, label=1
+LATVPV
+>P-0552, amyloid, label=1
+LATVQV
+>P-0553, amyloid, label=1
+LATVRV
+>P-0554, amyloid, label=1
+LATVSV
+>P-0555, amyloid, label=1
+LATVTV
+>P-0556, amyloid, label=1
+LATVVV
+>P-0557, amyloid, label=1
+LATVWV
+>P-0558, non-amyloid, label=0
+LATVYA
+>P-0559, amyloid, label=1
+LATVYC
+>P-0560, non-amyloid, label=0
+LATVYD
+>P-0561, amyloid, label=1
+LATVYE
+>P-0562, amyloid, label=1
+LATVYF
+>P-0563, non-amyloid, label=0
+LATVYG
+>P-0564, non-amyloid, label=0
+LATVYH
+>P-0565, amyloid, label=1
+LATVYI
+>P-0566, non-amyloid, label=0
+LATVYK
+>P-0567, non-amyloid, label=0
+LATVYL
+>P-0568, amyloid, label=1
+LATVYM
+>P-0569, amyloid, label=1
+LATVYN
+>P-0570, non-amyloid, label=0
+LATVYP
+>P-0571, non-amyloid, label=0
+LATVYQ
+>P-0572, non-amyloid, label=0
+LATVYR
+>P-0573, non-amyloid, label=0
+LATVYS
+>P-0574, non-amyloid, label=0
+LATVYT
+>P-0575, amyloid, label=1
+LATVYV
+>P-0576, amyloid, label=1
+LATVYW
+>P-0577, amyloid, label=1
+LATVYY
+>P-0578, non-amyloid, label=0
+LATWYV
+>P-0579, amyloid, label=1
+LATYYV
+>P-0580, amyloid, label=1
+LAVAGD
+>P-0581, amyloid, label=1
+LAVLFL
+>P-0582, amyloid, label=1
+LAVVYV
+>P-0583, amyloid, label=1
+LAWVYV
+>P-0584, amyloid, label=1
+LAYVYV
+>P-0585, amyloid, label=1
+LCTVYV
+>P-0586, non-amyloid, label=0
+LDGFSR
+>P-0587, non-amyloid, label=0
+LDGSSR
+>P-0588, non-amyloid, label=0
+LDQWNG
+>P-0589, non-amyloid, label=0
+LDTVYV
+>P-0590, amyloid, label=1
+LEFWLQ
+>P-0591, non-amyloid, label=0
+LETVYV
+>P-0592, non-amyloid, label=0
+LFMFND
+>P-0593, non-amyloid, label=0
+LFMSND
+>P-0594, non-amyloid, label=0
+LFNNST
+>P-0595, amyloid, label=1
+LFTVYV
+>P-0596, non-amyloid, label=0
+LGNNSN
+>P-0597, amyloid, label=1
+LGTVYV
+>P-0598, amyloid, label=1
+LHTVYV
+>P-0599, non-amyloid, label=0
+LIAGFN
+>P-0600, amyloid, label=1
+LIFLIV
+>P-0601, non-amyloid, label=0
+LINNSV
+>P-0602, amyloid, label=1
+LITVYV
+>P-0603, amyloid, label=1
+LIVAAD
+>P-0604, amyloid, label=1
+LIVAGD
+>P-0605, amyloid, label=1
+LIVAGE
+>P-0606, amyloid, label=1
+LIVAGK
+>P-0607, amyloid, label=1
+LIVAGS
+>P-0608, amyloid, label=1
+LIVAGT
+>P-0609, non-amyloid, label=0
+LKLVSS
+>P-0610, non-amyloid, label=0
+LKNGER
+>P-0611, non-amyloid, label=0
+LKTVYV
+>P-0612, amyloid, label=1
+LKVKVL
+>P-0613, amyloid, label=1
+LLAVVA
+>P-0614, non-amyloid, label=0
+LLFCHI
+>P-0615, non-amyloid, label=0
+LLFYHI
+>P-0616, non-amyloid, label=0
+LLGPTI
+>P-0617, non-amyloid, label=0
+LLNKTN
+>P-0618, amyloid, label=1
+LLTVYV
+>P-0619, non-amyloid, label=0
+LLVPTI
+>P-0620, amyloid, label=1
+LLYYTE
+>P-0621, non-amyloid, label=0
+LMNTTN
+>P-0622, non-amyloid, label=0
+LMSLFG
+>P-0623, amyloid, label=1
+LMTVYV
+>P-0624, non-amyloid, label=0
+LNDFQK
+>P-0625, non-amyloid, label=0
+LNIYQY
+>P-0626, non-amyloid, label=0
+LNNITA
+>P-0627, amyloid, label=1
+LNTVYV
+>P-0628, non-amyloid, label=0
+LPKVED
+>P-0629, amyloid, label=1
+LPTVYV
+>P-0630, non-amyloid, label=0
+LQGYQA
+>P-0631, amyloid, label=1
+LQIVYK
+>P-0632, non-amyloid, label=0
+LQNVSN
+>P-0633, non-amyloid, label=0
+LQSSWG
+>P-0634, non-amyloid, label=0
+LQTDAR
+>P-0635, amyloid, label=1
+LQTVYV
+>P-0636, non-amyloid, label=0
+LRTVYV
+>P-0637, amyloid, label=1
+LSFSKD
+>P-0638, non-amyloid, label=0
+LSGDHC
+>P-0639, non-amyloid, label=0
+LSQPKI
+>P-0640, amyloid, label=1
+LSTVYV
+>P-0641, non-amyloid, label=0
+LTFIQV
+>P-0642, non-amyloid, label=0
+LTITQH
+>P-0643, non-amyloid, label=0
+LTQRGF
+>P-0644, amyloid, label=1
+LTTVYV
+>P-0645, amyloid, label=1
+LTVIIE
+>P-0646, amyloid, label=1
+LVEALY
+>P-0647, amyloid, label=1
+LVFYQQ
+>P-0648, amyloid, label=1
+LVHSSN
+>P-0649, non-amyloid, label=0
+LVSSSG
+>P-0650, amyloid, label=1
+LVTVYV
+>P-0651, amyloid, label=1
+LWTVYV
+>P-0652, amyloid, label=1
+LYQLEN
+>P-0653, amyloid, label=1
+LYTVYV
+>P-0654, amyloid, label=1
+LYVLIV
+>P-0655, non-amyloid, label=0
+MAAAQA
+>P-0656, amyloid, label=1
+MATVYV
+>P-0657, amyloid, label=1
+MCSIFQ
+>P-0658, non-amyloid, label=0
+MERLRI
+>P-0659, non-amyloid, label=0
+MEWLRI
+>P-0660, non-amyloid, label=0
+MGGGMN
+>P-0661, non-amyloid, label=0
+MGMLAS
+>P-0662, non-amyloid, label=0
+MGNNTV
+>P-0663, amyloid, label=1
+MHVNIQ
+>P-0664, amyloid, label=1
+MIENIQ
+>P-0665, non-amyloid, label=0
+MIFFIY
+>P-0666, amyloid, label=1
+MIHFGN
+>P-0667, non-amyloid, label=0
+MINLYT
+>P-0668, non-amyloid, label=0
+MLASQQ
+>P-0669, non-amyloid, label=0
+MLASRQ
+>P-0670, amyloid, label=1
+MLVLFV
+>P-0671, non-amyloid, label=0
+MMAAAQ
+>P-0672, non-amyloid, label=0
+MMGMLA
+>P-0673, amyloid, label=1
+MMHFGN
+>P-0674, non-amyloid, label=0
+MNFGAF
+>P-0675, non-amyloid, label=0
+MNFGTF
+>P-0676, amyloid, label=1
+MQIVYK
+>P-0677, non-amyloid, label=0
+MSDSNQ
+>P-0678, non-amyloid, label=0
+MSLNDF
+>P-0679, amyloid, label=1
+MTFIQN
+>P-0680, amyloid, label=1
+MTVIIE
+>P-0681, non-amyloid, label=0
+MTVKQF
+>P-0682, amyloid, label=1
+MVGGVV
+>P-0683, non-amyloid, label=0
+MYFFIF
+>P-0684, non-amyloid, label=0
+MYWIIF
+>P-0685, non-amyloid, label=0
+NAGSGS
+>P-0686, non-amyloid, label=0
+NANASS
+>P-0687, non-amyloid, label=0
+NANTSN
+>P-0688, non-amyloid, label=0
+NAQAQP
+>P-0689, non-amyloid, label=0
+NATAHQ
+>P-0690, non-amyloid, label=0
+NATKKV
+>P-0691, amyloid, label=1
+NATVYV
+>P-0692, non-amyloid, label=0
+NDFQKQ
+>P-0693, non-amyloid, label=0
+NDNNNN
+>P-0694, non-amyloid, label=0
+NDNNSN
+>P-0695, non-amyloid, label=0
+NEFIIT
+>P-0696, non-amyloid, label=0
+NENGNA
+>P-0697, non-amyloid, label=0
+NFFIQS
+>P-0698, non-amyloid, label=0
+NFFWLL
+>P-0699, non-amyloid, label=0
+NFGAFS
+>P-0700, amyloid, label=1
+NFGAIL
+>P-0701, amyloid, label=1
+NFGEFS
+>P-0702, amyloid, label=1
+NFGSVQ
+>P-0703, non-amyloid, label=0
+NFGTFS
+>P-0704, amyloid, label=1
+NFLVHS
+>P-0705, non-amyloid, label=0
+NFNNGN
+>P-0706, non-amyloid, label=0
+NFNYNN
+>P-0707, amyloid, label=1
+NFVNYS
+>P-0708, non-amyloid, label=0
+NGAAVD
+>P-0709, non-amyloid, label=0
+NGADVG
+>P-0710, non-amyloid, label=0
+NGERIE
+>P-0711, non-amyloid, label=0
+NGIVIV
+>P-0712, non-amyloid, label=0
+NGKSNF
+>P-0713, non-amyloid, label=0
+NGNLSN
+>P-0714, non-amyloid, label=0
+NGNLTS
+>P-0715, non-amyloid, label=0
+NGNNSN
+>P-0716, non-amyloid, label=0
+NGNQNR
+>P-0717, non-amyloid, label=0
+NGNQQQ
+>P-0718, amyloid, label=1
+NHFCIQ
+>P-0719, non-amyloid, label=0
+NHGGGG
+>P-0720, amyloid, label=1
+NHVTLS
+>P-0721, non-amyloid, label=0
+NIDQSF
+>P-0722, amyloid, label=1
+NIFNFT
+>P-0723, amyloid, label=1
+NIFNIT
+>P-0724, amyloid, label=1
+NIFWVQ
+>P-0725, non-amyloid, label=0
+NIGNNS
+>P-0726, non-amyloid, label=0
+NIGQSF
+>P-0727, amyloid, label=1
+NINFFT
+>P-0728, amyloid, label=1
+NINFIT
+>P-0729, non-amyloid, label=0
+NININV
+>P-0730, amyloid, label=1
+NINKSN
+>P-0731, non-amyloid, label=0
+NINNNN
+>P-0732, non-amyloid, label=0
+NINNSI
+>P-0733, non-amyloid, label=0
+NINNST
+>P-0734, non-amyloid, label=0
+NIQYQF
+>P-0735, non-amyloid, label=0
+NISNNN
+>P-0736, non-amyloid, label=0
+NIVLIM
+>P-0737, non-amyloid, label=0
+NIYQYG
+>P-0738, non-amyloid, label=0
+NKFGGP
+>P-0739, amyloid, label=1
+NKGAII
+>P-0740, non-amyloid, label=0
+NKGAIK
+>P-0741, amyloid, label=1
+NLFYQL
+>P-0742, non-amyloid, label=0
+NLGPVL
+>P-0743, non-amyloid, label=0
+NLQGYQ
+>P-0744, non-amyloid, label=0
+NLYTDR
+>P-0745, non-amyloid, label=0
+NMGGGM
+>P-0746, non-amyloid, label=0
+NMNMNL
+>P-0747, non-amyloid, label=0
+NNATAH
+>P-0748, non-amyloid, label=0
+NNGGNN
+>P-0749, non-amyloid, label=0
+NNLQGY
+>P-0750, non-amyloid, label=0
+NNNGNQ
+>P-0751, non-amyloid, label=0
+NNNISN
+>P-0752, non-amyloid, label=0
+NNNISV
+>P-0753, non-amyloid, label=0
+NNNKNN
+>P-0754, non-amyloid, label=0
+NNNLQG
+>P-0755, non-amyloid, label=0
+NNNNNE
+>P-0756, non-amyloid, label=0
+NNNNSN
+>P-0757, non-amyloid, label=0
+NNNNTN
+>P-0758, non-amyloid, label=0
+NNNRGG
+>P-0759, non-amyloid, label=0
+NNNSSS
+>P-0760, amyloid, label=1
+NNNWSL
+>P-0761, amyloid, label=1
+NNQNTF
+>P-0762, amyloid, label=1
+NNQQNY
+>P-0763, non-amyloid, label=0
+NNRYQG
+>P-0764, amyloid, label=1
+NNSGPN
+>P-0765, non-amyloid, label=0
+NNSYSG
+>P-0766, non-amyloid, label=0
+NNTIFV
+>P-0767, non-amyloid, label=0
+NPAMMA
+>P-0768, non-amyloid, label=0
+NPDAGY
+>P-0769, non-amyloid, label=0
+NPQGGR
+>P-0770, non-amyloid, label=0
+NPQGGY
+>P-0771, amyloid, label=1
+NQFIIS
+>P-0772, amyloid, label=1
+NQFNLM
+>P-0773, non-amyloid, label=0
+NQGNNQ
+>P-0774, non-amyloid, label=0
+NQGYNT
+>P-0775, amyloid, label=1
+NQIVYK
+>P-0776, non-amyloid, label=0
+NQNMNN
+>P-0777, amyloid, label=1
+NQNNFV
+>P-0778, amyloid, label=1
+NQQNQY
+>P-0779, non-amyloid, label=0
+NQQNYQ
+>P-0780, non-amyloid, label=0
+NQQQGN
+>P-0781, non-amyloid, label=0
+NQSCPS
+>P-0782, non-amyloid, label=0
+NQSGFG
+>P-0783, non-amyloid, label=0
+NQYNSS
+>P-0784, non-amyloid, label=0
+NRYQGY
+>P-0785, non-amyloid, label=0
+NSALAL
+>P-0786, non-amyloid, label=0
+NSATLD
+>P-0787, non-amyloid, label=0
+NSGAAI
+>P-0788, non-amyloid, label=0
+NSNINQ
+>P-0789, non-amyloid, label=0
+NSNLTA
+>P-0790, non-amyloid, label=0
+NSNNSN
+>P-0791, non-amyloid, label=0
+NSNSSN
+>P-0792, non-amyloid, label=0
+NSNTNT
+>P-0793, non-amyloid, label=0
+NSNTTK
+>P-0794, non-amyloid, label=0
+NSNYTQ
+>P-0795, non-amyloid, label=0
+NSSFNG
+>P-0796, non-amyloid, label=0
+NSYSGS
+>P-0797, non-amyloid, label=0
+NTIFVQ
+>P-0798, non-amyloid, label=0
+NTNNTS
+>P-0799, amyloid, label=1
+NTVIIE
+>P-0800, non-amyloid, label=0
+NVAMHV
+>P-0801, non-amyloid, label=0
+NVAVHV
+>P-0802, non-amyloid, label=0
+NVNFSN
+>P-0803, non-amyloid, label=0
+NVTQVG
+>P-0804, amyloid, label=1
+NYCNFV
+>P-0805, non-amyloid, label=0
+NYFAIR
+>P-0806, non-amyloid, label=0
+NYKNFN
+>P-0807, non-amyloid, label=0
+NYNNNL
+>P-0808, non-amyloid, label=0
+NYNNSG
+>P-0809, non-amyloid, label=0
+NYNNSS
+>P-0810, non-amyloid, label=0
+NYNTYR
+>P-0811, non-amyloid, label=0
+NYQGYS
+>P-0812, non-amyloid, label=0
+NYQQYS
+>P-0813, amyloid, label=1
+NYVWIV
+>P-0814, non-amyloid, label=0
+PAESDK
+>P-0815, non-amyloid, label=0
+PAGGYY
+>P-0816, non-amyloid, label=0
+PAMMAA
+>P-0817, non-amyloid, label=0
+PATVYV
+>P-0818, non-amyloid, label=0
+PDAGYQ
+>P-0819, non-amyloid, label=0
+PGGFGN
+>P-0820, non-amyloid, label=0
+PKIQVY
+>P-0821, non-amyloid, label=0
+PKKTLK
+>P-0822, non-amyloid, label=0
+PKPKKT
+>P-0823, non-amyloid, label=0
+PKVEDL
+>P-0824, non-amyloid, label=0
+PMINLY
+>P-0825, non-amyloid, label=0
+PNGITL
+>P-0826, non-amyloid, label=0
+PNSANS
+>P-0827, non-amyloid, label=0
+PNVITL
+>P-0828, non-amyloid, label=0
+PQGGRG
+>P-0829, non-amyloid, label=0
+PQGGYQ
+>P-0830, non-amyloid, label=0
+PQIVYK
+>P-0831, non-amyloid, label=0
+PQSQGM
+>P-0832, non-amyloid, label=0
+PQYGGG
+>P-0833, non-amyloid, label=0
+PSDIEV
+>P-0834, non-amyloid, label=0
+PSGNNQ
+>P-0835, non-amyloid, label=0
+PTEKDE
+>P-0836, non-amyloid, label=0
+PTKVEE
+>P-0837, non-amyloid, label=0
+PTRCCP
+>P-0838, non-amyloid, label=0
+PTREPT
+>P-0839, non-amyloid, label=0
+PTVIIE
+>P-0840, non-amyloid, label=0
+PVKKEE
+>P-0841, non-amyloid, label=0
+PVQTEE
+>P-0842, non-amyloid, label=0
+PYGQQS
+>P-0843, non-amyloid, label=0
+QAALQS
+>P-0844, non-amyloid, label=0
+QAAPKP
+>P-0845, non-amyloid, label=0
+QAGFQP
+>P-0846, amyloid, label=1
+QANKHI
+>P-0847, non-amyloid, label=0
+QAQNQW
+>P-0848, non-amyloid, label=0
+QAQPAG
+>P-0849, amyloid, label=1
+QATVYV
+>P-0850, non-amyloid, label=0
+QAYNAQ
+>P-0851, amyloid, label=1
+QEMRHF
+>P-0852, amyloid, label=1
+QFFLQF
+>P-0853, non-amyloid, label=0
+QFGGGN
+>P-0854, non-amyloid, label=0
+QFNPQG
+>P-0855, non-amyloid, label=0
+QGFNNQ
+>P-0856, non-amyloid, label=0
+QGGRGN
+>P-0857, non-amyloid, label=0
+QGGYQQ
+>P-0858, non-amyloid, label=0
+QGMSLN
+>P-0859, non-amyloid, label=0
+QGNNQQ
+>P-0860, non-amyloid, label=0
+QGNNRY
+>P-0861, amyloid, label=1
+QGVCFR
+>P-0862, non-amyloid, label=0
+QGYQAG
+>P-0863, non-amyloid, label=0
+QGYQAY
+>P-0864, non-amyloid, label=0
+QGYSGY
+>P-0865, non-amyloid, label=0
+QHGGGN
+>P-0866, non-amyloid, label=0
+QIGIIK
+>P-0867, amyloid, label=1
+QILLWS
+>P-0868, non-amyloid, label=0
+QKQAAP
+>P-0869, non-amyloid, label=0
+QKQQKQ
+>P-0870, amyloid, label=1
+QLENYC
+>P-0871, amyloid, label=1
+QLFINF
+>P-0872, non-amyloid, label=0
+QLFINN
+>P-0873, amyloid, label=1
+QLFLQI
+>P-0874, non-amyloid, label=0
+QNGNQQ
+>P-0875, amyloid, label=1
+QNLLWQ
+>P-0876, non-amyloid, label=0
+QNQSCP
+>P-0877, non-amyloid, label=0
+QNQSGP
+>P-0878, non-amyloid, label=0
+QNQYNS
+>P-0879, non-amyloid, label=0
+QNSLNM
+>P-0880, non-amyloid, label=0
+QNYQGY
+>P-0881, non-amyloid, label=0
+QNYQQY
+>P-0882, non-amyloid, label=0
+QPAGGY
+>P-0883, non-amyloid, label=0
+QPKIVK
+>P-0884, non-amyloid, label=0
+QPMINL
+>P-0885, non-amyloid, label=0
+QPQSQG
+>P-0886, non-amyloid, label=0
+QQFNPQ
+>P-0887, non-amyloid, label=0
+QQGGYQ
+>P-0888, non-amyloid, label=0
+QQGNNR
+>P-0889, amyloid, label=1
+QQIVYK
+>P-0890, non-amyloid, label=0
+QQKQAA
+>P-0891, non-amyloid, label=0
+QQNQSC
+>P-0892, non-amyloid, label=0
+QQNQSG
+>P-0893, non-amyloid, label=0
+QQNQYN
+>P-0894, non-amyloid, label=0
+QQNTSF
+>P-0895, non-amyloid, label=0
+QQNYQQ
+>P-0896, non-amyloid, label=0
+QQNYSK
+>P-0897, non-amyloid, label=0
+QQQFNP
+>P-0898, non-amyloid, label=0
+QQQGNN
+>P-0899, non-amyloid, label=0
+QQQSYG
+>P-0900, non-amyloid, label=0
+QQQSYN
+>P-0901, non-amyloid, label=0
+QQQYNP
+>P-0902, amyloid, label=1
+QQSLFQ
+>P-0903, non-amyloid, label=0
+QQSYGQ
+>P-0904, non-amyloid, label=0
+QQSYNP
+>P-0905, non-amyloid, label=0
+QQSYSG
+>P-0906, non-amyloid, label=0
+QQYNPD
+>P-0907, non-amyloid, label=0
+QQYNPQ
+>P-0908, non-amyloid, label=0
+QQYSQN
+>P-0909, non-amyloid, label=0
+QRGFGN
+>P-0910, non-amyloid, label=0
+QSCPSG
+>P-0911, non-amyloid, label=0
+QSGFGN
+>P-0912, non-amyloid, label=0
+QSQGMS
+>P-0913, non-amyloid, label=0
+QSSWGM
+>P-0914, non-amyloid, label=0
+QSSYSS
+>P-0915, non-amyloid, label=0
+QSYGQQ
+>P-0916, non-amyloid, label=0
+QSYNPP
+>P-0917, non-amyloid, label=0
+QSYSGY
+>P-0918, non-amyloid, label=0
+QTDARN
+>P-0919, non-amyloid, label=0
+QTEEKK
+>P-0920, amyloid, label=1
+QTFLVN
+>P-0921, non-amyloid, label=0
+QTFNLF
+>P-0922, non-amyloid, label=0
+QTNLYG
+>P-0923, amyloid, label=1
+QTVIIE
+>P-0924, non-amyloid, label=0
+QVGFGN
+>P-0925, non-amyloid, label=0
+QVVHIG
+>P-0926, non-amyloid, label=0
+QVVPIG
+>P-0927, non-amyloid, label=0
+QWNGKN
+>P-0928, amyloid, label=1
+QYFEQF
+>P-0929, non-amyloid, label=0
+QYGGGG
+>P-0930, non-amyloid, label=0
+QYGGGN
+>P-0931, amyloid, label=1
+QYGGNA
+>P-0932, amyloid, label=1
+QYGGNN
+>P-0933, non-amyloid, label=0
+QYNNSN
+>P-0934, non-amyloid, label=0
+QYNPDA
+>P-0935, non-amyloid, label=0
+QYNPQG
+>P-0936, non-amyloid, label=0
+QYSQNG
+>P-0937, amyloid, label=1
+RATVYV
+>P-0938, non-amyloid, label=0
+REPTKV
+>P-0939, non-amyloid, label=0
+RETWFF
+>P-0940, non-amyloid, label=0
+RGFFYT
+>P-0941, non-amyloid, label=0
+RGFGNS
+>P-0942, non-amyloid, label=0
+RGGFNK
+>P-0943, non-amyloid, label=0
+RGNYKN
+>P-0944, non-amyloid, label=0
+RIGIAQ
+>P-0945, non-amyloid, label=0
+RLSNNI
+>P-0946, non-amyloid, label=0
+RLVFID
+>P-0947, non-amyloid, label=0
+RMFNII
+>P-0948, non-amyloid, label=0
+RNLTKD
+>P-0949, non-amyloid, label=0
+RQFNQT
+>P-0950, non-amyloid, label=0
+RQIVYK
+>P-0951, non-amyloid, label=0
+RQNQSG
+>P-0952, amyloid, label=1
+RQVLIF
+>P-0953, non-amyloid, label=0
+RTPKIQ
+>P-0954, amyloid, label=1
+RTVIIE
+>P-0955, non-amyloid, label=0
+RVAFFE
+>P-0956, amyloid, label=1
+RVFNIM
+>P-0957, non-amyloid, label=0
+RVNHVT
+>P-0958, non-amyloid, label=0
+RVNNNA
+>P-0959, non-amyloid, label=0
+RYQGYQ
+>P-0960, non-amyloid, label=0
+SAETKE
+>P-0961, amyloid, label=1
+SALALQ
+>P-0962, non-amyloid, label=0
+SASNAG
+>P-0963, non-amyloid, label=0
+SATLDQ
+>P-0964, amyloid, label=1
+SATVYV
+>P-0965, amyloid, label=1
+SAVIIE
+>P-0966, non-amyloid, label=0
+SCNNNN
+>P-0967, non-amyloid, label=0
+SCPSGN
+>P-0968, non-amyloid, label=0
+SDKKEE
+>P-0969, non-amyloid, label=0
+SDLSFS
+>P-0970, non-amyloid, label=0
+SDLTIT
+>P-0971, non-amyloid, label=0
+SDNNTI
+>P-0972, non-amyloid, label=0
+SDSNQG
+>P-0973, amyloid, label=1
+SDVIIE
+>P-0974, amyloid, label=1
+SELNIY
+>P-0975, non-amyloid, label=0
+SELPKV
+>P-0976, non-amyloid, label=0
+SEMTVK
+>P-0977, amyloid, label=1
+SEVIIE
+>P-0978, non-amyloid, label=0
+SFFCII
+>P-0979, amyloid, label=1
+SFFFIQ
+>P-0980, amyloid, label=1
+SFLIFL
+>P-0981, amyloid, label=1
+SFQIYA
+>P-0982, amyloid, label=1
+SFVIIE
+>P-0983, non-amyloid, label=0
+SGAAIG
+>P-0984, non-amyloid, label=0
+SGDGSL
+>P-0985, non-amyloid, label=0
+SGDHCI
+>P-0986, non-amyloid, label=0
+SGFGNS
+>P-0987, non-amyloid, label=0
+SGFHPS
+>P-0988, non-amyloid, label=0
+SGIKLA
+>P-0989, non-amyloid, label=0
+SGSGFN
+>P-0990, non-amyloid, label=0
+SGSNSG
+>P-0991, amyloid, label=1
+SGVIIE
+>P-0992, non-amyloid, label=0
+SGYQQG
+>P-0993, non-amyloid, label=0
+SHLVEA
+>P-0994, non-amyloid, label=0
+SHVIIE
+>P-0995, non-amyloid, label=0
+SIDLTQ
+>P-0996, non-amyloid, label=0
+SIEDSV
+>P-0997, non-amyloid, label=0
+SINPAM
+>P-0998, amyloid, label=1
+SIVIIE
+>P-0999, non-amyloid, label=0
+SKVIIE
+>P-1000, non-amyloid, label=0
+SLFLIG
+>P-1001, non-amyloid, label=0
+SLNDFQ
+>P-1002, non-amyloid, label=0
+SLSGDH
+>P-1003, amyloid, label=1
+SLVIIE
+>P-1004, non-amyloid, label=0
+SLYQLE
+>P-1005, amyloid, label=1
+SMVIIE
+>P-1006, amyloid, label=1
+SMVLFS
+>P-1007, non-amyloid, label=0
+SNAGSG
+>P-1008, non-amyloid, label=0
+SNGIVI
+>P-1009, non-amyloid, label=0
+SNMGGG
+>P-1010, non-amyloid, label=0
+SNNFGA
+>P-1011, non-amyloid, label=0
+SNNSNI
+>P-1012, non-amyloid, label=0
+SNQGNN
+>P-1013, amyloid, label=1
+SNQNNF
+>P-1014, non-amyloid, label=0
+SNSGAA
+>P-1015, non-amyloid, label=0
+SNTNNT
+>P-1016, amyloid, label=1
+SNVIIE
+>P-1017, non-amyloid, label=0
+SPVIIE
+>P-1018, amyloid, label=1
+SQAIIH
+>P-1019, amyloid, label=1
+SQFYIT
+>P-1020, non-amyloid, label=0
+SQGMSL
+>P-1021, amyloid, label=1
+SQIVYK
+>P-1022, non-amyloid, label=0
+SQNGNQ
+>P-1023, non-amyloid, label=0
+SQQNQS
+>P-1024, amyloid, label=1
+SQVIIE
+>P-1025, non-amyloid, label=0
+SRHPAE
+>P-1026, non-amyloid, label=0
+SRQNQS
+>P-1027, non-amyloid, label=0
+SRVIIE
+>P-1028, non-amyloid, label=0
+SSGIKL
+>P-1029, non-amyloid, label=0
+SSIDLT
+>P-1030, amyloid, label=1
+SSNNFG
+>P-1031, non-amyloid, label=0
+SSNNNS
+>P-1032, amyloid, label=1
+SSQVTQ
+>P-1033, non-amyloid, label=0
+SSSGIK
+>P-1034, amyloid, label=1
+SSTNVG
+>P-1035, amyloid, label=1
+SSTSAA
+>P-1036, amyloid, label=1
+SSVIIE
+>P-1037, non-amyloid, label=0
+SSVNVT
+>P-1038, non-amyloid, label=0
+SSWGMM
+>P-1039, non-amyloid, label=0
+SSYSSY
+>P-1040, non-amyloid, label=0
+STADWE
+>P-1041, non-amyloid, label=0
+STAIIE
+>P-1042, non-amyloid, label=0
+STDIIE
+>P-1043, amyloid, label=1
+STEIIE
+>P-1044, amyloid, label=1
+STFIFE
+>P-1045, amyloid, label=1
+STFIIE
+>P-1046, amyloid, label=1
+STFLIE
+>P-1047, amyloid, label=1
+STFTFE
+>P-1048, non-amyloid, label=0
+STFTIE
+>P-1049, non-amyloid, label=0
+STGIIE
+>P-1050, non-amyloid, label=0
+STHIIE
+>P-1051, non-amyloid, label=0
+STIIIE
+>P-1052, non-amyloid, label=0
+STKIIE
+>P-1053, non-amyloid, label=0
+STLIFE
+>P-1054, amyloid, label=1
+STLIIE
+>P-1055, non-amyloid, label=0
+STLIYE
+>P-1056, non-amyloid, label=0
+STLLIE
+>P-1057, non-amyloid, label=0
+STLLYE
+>P-1058, non-amyloid, label=0
+STLTFE
+>P-1059, non-amyloid, label=0
+STLTIE
+>P-1060, non-amyloid, label=0
+STMIIE
+>P-1061, amyloid, label=1
+STMSIT
+>P-1062, non-amyloid, label=0
+STNIFE
+>P-1063, amyloid, label=1
+STNIIE
+>P-1064, non-amyloid, label=0
+STNIYE
+>P-1065, non-amyloid, label=0
+STNNTN
+>P-1066, non-amyloid, label=0
+STNSNT
+>P-1067, non-amyloid, label=0
+STNTFE
+>P-1068, non-amyloid, label=0
+STNTIE
+>P-1069, non-amyloid, label=0
+STPIIE
+>P-1070, non-amyloid, label=0
+STQIFE
+>P-1071, amyloid, label=1
+STQIIE
+>P-1072, non-amyloid, label=0
+STQIYE
+>P-1073, non-amyloid, label=0
+STRIIE
+>P-1074, amyloid, label=1
+STSIIE
+>P-1075, non-amyloid, label=0
+STTIIE
+>P-1076, non-amyloid, label=0
+STTVVT
+>P-1077, non-amyloid, label=0
+STVAIE
+>P-1078, non-amyloid, label=0
+STVDIE
+>P-1079, amyloid, label=1
+STVEIE
+>P-1080, amyloid, label=1
+STVFIE
+>P-1081, non-amyloid, label=0
+STVGIE
+>P-1082, non-amyloid, label=0
+STVHIE
+>P-1083, non-amyloid, label=0
+STVIAE
+>P-1084, non-amyloid, label=0
+STVIDE
+>P-1085, non-amyloid, label=0
+STVIEE
+>P-1086, amyloid, label=1
+STVIFE
+>P-1087, non-amyloid, label=0
+STVIGE
+>P-1088, non-amyloid, label=0
+STVIHE
+>P-1089, amyloid, label=1
+STVIIA
+>P-1090, amyloid, label=1
+STVIID
+>P-1091, amyloid, label=1
+STVIIE
+>P-1092, amyloid, label=1
+STVIIF
+>P-1093, amyloid, label=1
+STVIIG
+>P-1094, non-amyloid, label=0
+STVIIH
+>P-1095, amyloid, label=1
+STVIII
+>P-1096, non-amyloid, label=0
+STVIIK
+>P-1097, amyloid, label=1
+STVIIL
+>P-1098, amyloid, label=1
+STVIIM
+>P-1099, amyloid, label=1
+STVIIN
+>P-1100, non-amyloid, label=0
+STVIIP
+>P-1101, amyloid, label=1
+STVIIQ
+>P-1102, non-amyloid, label=0
+STVIIR
+>P-1103, amyloid, label=1
+STVIIS
+>P-1104, amyloid, label=1
+STVIIT
+>P-1105, amyloid, label=1
+STVIIV
+>P-1106, amyloid, label=1
+STVIIW
+>P-1107, amyloid, label=1
+STVIIY
+>P-1108, non-amyloid, label=0
+STVIKE
+>P-1109, non-amyloid, label=0
+STVIKT
+>P-1110, non-amyloid, label=0
+STVILE
+>P-1111, non-amyloid, label=0
+STVIME
+>P-1112, non-amyloid, label=0
+STVINE
+>P-1113, non-amyloid, label=0
+STVIPE
+>P-1114, non-amyloid, label=0
+STVIQE
+>P-1115, non-amyloid, label=0
+STVIRE
+>P-1116, non-amyloid, label=0
+STVISE
+>P-1117, non-amyloid, label=0
+STVITE
+>P-1118, non-amyloid, label=0
+STVIVE
+>P-1119, non-amyloid, label=0
+STVIWE
+>P-1120, amyloid, label=1
+STVIYE
+>P-1121, non-amyloid, label=0
+STVKIE
+>P-1122, amyloid, label=1
+STVLIE
+>P-1123, non-amyloid, label=0
+STVMIE
+>P-1124, amyloid, label=1
+STVNIE
+>P-1125, non-amyloid, label=0
+STVPIE
+>P-1126, non-amyloid, label=0
+STVQIE
+>P-1127, non-amyloid, label=0
+STVRIE
+>P-1128, non-amyloid, label=0
+STVSIE
+>P-1129, non-amyloid, label=0
+STVTFE
+>P-1130, amyloid, label=1
+STVTIE
+>P-1131, non-amyloid, label=0
+STVVIE
+>P-1132, amyloid, label=1
+STVWIE
+>P-1133, amyloid, label=1
+STVYIE
+>P-1134, amyloid, label=1
+STWIFE
+>P-1135, amyloid, label=1
+STWIIE
+>P-1136, amyloid, label=1
+STWIYE
+>P-1137, amyloid, label=1
+STWLIE
+>P-1138, non-amyloid, label=0
+STWTFE
+>P-1139, non-amyloid, label=0
+STWTIE
+>P-1140, non-amyloid, label=0
+STYIIE
+>P-1141, non-amyloid, label=0
+SVISLS
+>P-1142, amyloid, label=1
+SVNLDV
+>P-1143, non-amyloid, label=0
+SVNVTQ
+>P-1144, amyloid, label=1
+SVSSSY
+>P-1145, amyloid, label=1
+SVVIIE
+>P-1146, non-amyloid, label=0
+SWGMMG
+>P-1147, non-amyloid, label=0
+SWVIIE
+>P-1148, non-amyloid, label=0
+SYLCDL
+>P-1149, non-amyloid, label=0
+SYLYDL
+>P-1150, non-amyloid, label=0
+SYNNNN
+>P-1151, non-amyloid, label=0
+SYSGSN
+>P-1152, amyloid, label=1
+SYSTMS
+>P-1153, amyloid, label=1
+SYVIIE
+>P-1154, non-amyloid, label=0
+TAAHCF
+>P-1155, non-amyloid, label=0
+TAELIT
+>P-1156, amyloid, label=1
+TAMIIQ
+>P-1157, amyloid, label=1
+TAMLGT
+>P-1158, amyloid, label=1
+TASNSS
+>P-1159, amyloid, label=1
+TATVYV
+>P-1160, non-amyloid, label=0
+TAVHCF
+>P-1161, amyloid, label=1
+TAVTHR
+>P-1162, non-amyloid, label=0
+TAVTTG
+>P-1163, amyloid, label=1
+TAVVTN
+>P-1164, non-amyloid, label=0
+TAWYAE
+>P-1165, amyloid, label=1
+TCMLGT
+>P-1166, amyloid, label=1
+TCVTHR
+>P-1167, non-amyloid, label=0
+TDETVI
+>P-1168, non-amyloid, label=0
+TEEKKE
+>P-1169, non-amyloid, label=0
+TEFTPT
+>P-1170, amyloid, label=1
+TFQINS
+>P-1171, non-amyloid, label=0
+TFSINP
+>P-1172, non-amyloid, label=0
+TFWEIS
+>P-1173, amyloid, label=1
+TGELAT
+>P-1174, non-amyloid, label=0
+TGVTII
+>P-1175, non-amyloid, label=0
+TGVVVV
+>P-1176, amyloid, label=1
+TIITLE
+>P-1177, amyloid, label=1
+TIITVT
+>P-1178, non-amyloid, label=0
+TITQHG
+>P-1179, non-amyloid, label=0
+TKEPTR
+>P-1180, non-amyloid, label=0
+TKKVDT
+>P-1181, non-amyloid, label=0
+TKPAES
+>P-1182, non-amyloid, label=0
+TKVEEP
+>P-1183, non-amyloid, label=0
+TLDQWN
+>P-1184, non-amyloid, label=0
+TLKLVS
+>P-1185, non-amyloid, label=0
+TLKNYI
+>P-1186, non-amyloid, label=0
+TNELYM
+>P-1187, non-amyloid, label=0
+TNNNTN
+>P-1188, non-amyloid, label=0
+TQHGGG
+>P-1189, amyloid, label=1
+TQIVYK
+>P-1190, non-amyloid, label=0
+TQRGFG
+>P-1191, non-amyloid, label=0
+TQVGFG
+>P-1192, non-amyloid, label=0
+TREPTK
+>P-1193, non-amyloid, label=0
+TRNNTV
+>P-1194, non-amyloid, label=0
+TTGVTI
+>P-1195, non-amyloid, label=0
+TTGVVV
+>P-1196, amyloid, label=1
+TTVIIE
+>P-1197, non-amyloid, label=0
+TTVVST
+>P-1198, non-amyloid, label=0
+TTVVTT
+>P-1199, non-amyloid, label=0
+TVFHIG
+>P-1200, non-amyloid, label=0
+TVFPIG
+>P-1201, non-amyloid, label=0
+TVIVIR
+>P-1202, non-amyloid, label=0
+TVKQFG
+>P-1203, non-amyloid, label=0
+TVVSTT
+>P-1204, non-amyloid, label=0
+TYQIIR
+>P-1205, non-amyloid, label=0
+TYSFYC
+>P-1206, amyloid, label=1
+TYVEYI
+>P-1207, amyloid, label=1
+VAFNIT
+>P-1208, amyloid, label=1
+VAIVYK
+>P-1209, non-amyloid, label=0
+VAMHVF
+>P-1210, amyloid, label=1
+VANFIT
+>P-1211, non-amyloid, label=0
+VANNST
+>P-1212, non-amyloid, label=0
+VATTRT
+>P-1213, amyloid, label=1
+VATVYV
+>P-1214, amyloid, label=1
+VAVHVF
+>P-1215, non-amyloid, label=0
+VAWLKM
+>P-1216, amyloid, label=1
+VCIVYK
+>P-1217, amyloid, label=1
+VDIVYK
+>P-1218, non-amyloid, label=0
+VDQTAS
+>P-1219, non-amyloid, label=0
+VDTKPA
+>P-1220, amyloid, label=1
+VEALYL
+>P-1221, non-amyloid, label=0
+VEDLKI
+>P-1222, non-amyloid, label=0
+VEEPVK
+>P-1223, amyloid, label=1
+VEIVYK
+>P-1224, non-amyloid, label=0
+VFFFIG
+>P-1225, non-amyloid, label=0
+VFFINQ
+>P-1226, amyloid, label=1
+VFFNNT
+>P-1227, amyloid, label=1
+VFIVYK
+>P-1228, non-amyloid, label=0
+VGFGNN
+>P-1229, amyloid, label=1
+VGIVYK
+>P-1230, non-amyloid, label=0
+VGQGSD
+>P-1231, amyloid, label=1
+VHIVYK
+>P-1232, non-amyloid, label=0
+VHNNSN
+>P-1233, amyloid, label=1
+VIFTIM
+>P-1234, amyloid, label=1
+VIGIAQ
+>P-1235, amyloid, label=1
+VIIVYK
+>P-1236, amyloid, label=1
+VILLIS
+>P-1237, non-amyloid, label=0
+VISLSG
+>P-1238, amyloid, label=1
+VIVATT
+>P-1239, non-amyloid, label=0
+VIVIRT
+>P-1240, non-amyloid, label=0
+VIWIAQ
+>P-1241, amyloid, label=1
+VKAVAK
+>P-1242, amyloid, label=1
+VKIVYK
+>P-1243, non-amyloid, label=0
+VKKEEK
+>P-1244, non-amyloid, label=0
+VKQFGG
+>P-1245, non-amyloid, label=0
+VKWDRD
+>P-1246, amyloid, label=1
+VLIVYK
+>P-1247, amyloid, label=1
+VLVEAQ
+>P-1248, amyloid, label=1
+VMIVYK
+>P-1249, amyloid, label=1
+VNIVYK
+>P-1250, non-amyloid, label=0
+VNNNNI
+>P-1251, non-amyloid, label=0
+VNNNNN
+>P-1252, amyloid, label=1
+VNQLYQ
+>P-1253, amyloid, label=1
+VNVTQV
+>P-1254, non-amyloid, label=0
+VNWCER
+>P-1255, non-amyloid, label=0
+VNWYER
+>P-1256, non-amyloid, label=0
+VPGIAQ
+>P-1257, non-amyloid, label=0
+VPIVYK
+>P-1258, non-amyloid, label=0
+VPQYGG
+>P-1259, non-amyloid, label=0
+VQAVYK
+>P-1260, amyloid, label=1
+VQCVYK
+>P-1261, non-amyloid, label=0
+VQDVYK
+>P-1262, non-amyloid, label=0
+VQEVYK
+>P-1263, amyloid, label=1
+VQFLQS
+>P-1264, amyloid, label=1
+VQFVYK
+>P-1265, non-amyloid, label=0
+VQGVYK
+>P-1266, non-amyloid, label=0
+VQHVYK
+>P-1267, non-amyloid, label=0
+VQIAYK
+>P-1268, amyloid, label=1
+VQICYK
+>P-1269, amyloid, label=1
+VQIDYK
+>P-1270, non-amyloid, label=0
+VQIEYK
+>P-1271, amyloid, label=1
+VQIFYK
+>P-1272, non-amyloid, label=0
+VQIGYK
+>P-1273, non-amyloid, label=0
+VQIHYK
+>P-1274, amyloid, label=1
+VQIINK
+>P-1275, amyloid, label=1
+VQIIYK
+>P-1276, amyloid, label=1
+VQIKYK
+>P-1277, amyloid, label=1
+VQILYK
+>P-1278, amyloid, label=1
+VQIMYK
+>P-1279, amyloid, label=1
+VQINYK
+>P-1280, non-amyloid, label=0
+VQIPYK
+>P-1281, amyloid, label=1
+VQIQYK
+>P-1282, amyloid, label=1
+VQIRYK
+>P-1283, amyloid, label=1
+VQISYK
+>P-1284, amyloid, label=1
+VQITYK
+>P-1285, amyloid, label=1
+VQIVAK
+>P-1286, amyloid, label=1
+VQIVCK
+>P-1287, amyloid, label=1
+VQIVDK
+>P-1288, amyloid, label=1
+VQIVEK
+>P-1289, amyloid, label=1
+VQIVFK
+>P-1290, amyloid, label=1
+VQIVGK
+>P-1291, amyloid, label=1
+VQIVHK
+>P-1292, amyloid, label=1
+VQIVIK
+>P-1293, amyloid, label=1
+VQIVKK
+>P-1294, amyloid, label=1
+VQIVLK
+>P-1295, amyloid, label=1
+VQIVMK
+>P-1296, amyloid, label=1
+VQIVNK
+>P-1297, amyloid, label=1
+VQIVPK
+>P-1298, amyloid, label=1
+VQIVQK
+>P-1299, amyloid, label=1
+VQIVRK
+>P-1300, amyloid, label=1
+VQIVSK
+>P-1301, amyloid, label=1
+VQIVTK
+>P-1302, amyloid, label=1
+VQIVVK
+>P-1303, amyloid, label=1
+VQIVWK
+>P-1304, amyloid, label=1
+VQIVYA
+>P-1305, amyloid, label=1
+VQIVYC
+>P-1306, amyloid, label=1
+VQIVYD
+>P-1307, amyloid, label=1
+VQIVYE
+>P-1308, amyloid, label=1
+VQIVYF
+>P-1309, amyloid, label=1
+VQIVYG
+>P-1310, amyloid, label=1
+VQIVYH
+>P-1311, amyloid, label=1
+VQIVYI
+>P-1312, amyloid, label=1
+VQIVYK
+>P-1313, amyloid, label=1
+VQIVYL
+>P-1314, amyloid, label=1
+VQIVYM
+>P-1315, amyloid, label=1
+VQIVYN
+>P-1316, amyloid, label=1
+VQIVYP
+>P-1317, amyloid, label=1
+VQIVYQ
+>P-1318, amyloid, label=1
+VQIVYR
+>P-1319, amyloid, label=1
+VQIVYS
+>P-1320, amyloid, label=1
+VQIVYT
+>P-1321, amyloid, label=1
+VQIVYV
+>P-1322, amyloid, label=1
+VQIVYW
+>P-1323, amyloid, label=1
+VQIVYY
+>P-1324, amyloid, label=1
+VQIWYK
+>P-1325, amyloid, label=1
+VQIYYK
+>P-1326, non-amyloid, label=0
+VQKVYK
+>P-1327, amyloid, label=1
+VQLVYK
+>P-1328, amyloid, label=1
+VQMVYK
+>P-1329, amyloid, label=1
+VQNVYK
+>P-1330, non-amyloid, label=0
+VQPVYK
+>P-1331, amyloid, label=1
+VQQVYK
+>P-1332, non-amyloid, label=0
+VQRVYK
+>P-1333, non-amyloid, label=0
+VQSVYK
+>P-1334, non-amyloid, label=0
+VQTEEK
+>P-1335, amyloid, label=1
+VQTVYK
+>P-1336, amyloid, label=1
+VQVVYK
+>P-1337, non-amyloid, label=0
+VQWVYK
+>P-1338, non-amyloid, label=0
+VQYVYK
+>P-1339, amyloid, label=1
+VRIVYK
+>P-1340, amyloid, label=1
+VSFEIV
+>P-1341, amyloid, label=1
+VSFLSA
+>P-1342, non-amyloid, label=0
+VSIEDS
+>P-1343, amyloid, label=1
+VSIVYK
+>P-1344, non-amyloid, label=0
+VSNLSN
+>P-1345, non-amyloid, label=0
+VSSSGI
+>P-1346, amyloid, label=1
+VSTTVV
+>P-1347, amyloid, label=1
+VTFTIQ
+>P-1348, non-amyloid, label=0
+VTIITV
+>P-1349, amyloid, label=1
+VTIVYK
+>P-1350, non-amyloid, label=0
+VTKVAK
+>P-1351, amyloid, label=1
+VTLHAT
+>P-1352, non-amyloid, label=0
+VTLSQP
+>P-1353, amyloid, label=1
+VTLWWG
+>P-1354, non-amyloid, label=0
+VTQEFW
+>P-1355, non-amyloid, label=0
+VTQVGF
+>P-1356, amyloid, label=1
+VTSTFS
+>P-1357, non-amyloid, label=0
+VTTGVT
+>P-1358, non-amyloid, label=0
+VTTGVV
+>P-1359, non-amyloid, label=0
+VTTVVS
+>P-1360, amyloid, label=1
+VTVIIE
+>P-1361, amyloid, label=1
+VTVQAT
+>P-1362, amyloid, label=1
+VVFFIC
+>P-1363, amyloid, label=1
+VVIVYK
+>P-1364, non-amyloid, label=0
+VVPQYG
+>P-1365, amyloid, label=1
+VVSTTV
+>P-1366, non-amyloid, label=0
+VVTSEE
+>P-1367, non-amyloid, label=0
+VVVTSE
+>P-1368, non-amyloid, label=0
+VVVVTS
+>P-1369, amyloid, label=1
+VWIVYK
+>P-1370, amyloid, label=1
+VYIMIG
+>P-1371, amyloid, label=1
+VYIVYK
+>P-1372, non-amyloid, label=0
+VYSCEW
+>P-1373, non-amyloid, label=0
+VYSRHP
+>P-1374, non-amyloid, label=0
+VYSWEW
+>P-1375, amyloid, label=1
+WATVYV
+>P-1376, non-amyloid, label=0
+WGMMGM
+>P-1377, non-amyloid, label=0
+WGSASN
+>P-1378, amyloid, label=1
+WIVIFF
+>P-1379, non-amyloid, label=0
+WNFGTQ
+>P-1380, non-amyloid, label=0
+WNFSTQ
+>P-1381, non-amyloid, label=0
+WPNGIT
+>P-1382, amyloid, label=1
+WPNVIT
+>P-1383, amyloid, label=1
+WQIVYK
+>P-1384, non-amyloid, label=0
+WSFYLL
+>P-1385, amyloid, label=1
+WTFNLY
+>P-1386, amyloid, label=1
+WTVIIE
+>P-1387, amyloid, label=1
+WTVNYS
+>P-1388, non-amyloid, label=0
+WVENYP
+>P-1389, amyloid, label=1
+WVFWIG
+>P-1390, non-amyloid, label=0
+WYFYIQ
+>P-1391, amyloid, label=1
+YAELIV
+>P-1392, non-amyloid, label=0
+YASEIE
+>P-1393, non-amyloid, label=0
+YASNNN
+>P-1394, amyloid, label=1
+YATVYV
+>P-1395, non-amyloid, label=0
+YGGGGN
+>P-1396, non-amyloid, label=0
+YGGGNS
+>P-1397, non-amyloid, label=0
+YGQQNQ
+>P-1398, non-amyloid, label=0
+YGQQQS
+>P-1399, non-amyloid, label=0
+YGQQSY
+>P-1400, non-amyloid, label=0
+YGQSSY
+>P-1401, amyloid, label=1
+YHLAMA
+>P-1402, amyloid, label=1
+YIFNNC
+>P-1403, non-amyloid, label=0
+YIFNNM
+>P-1404, non-amyloid, label=0
+YKNFNY
+>P-1405, non-amyloid, label=0
+YLEIII
+>P-1406, amyloid, label=1
+YLFLQY
+>P-1407, non-amyloid, label=0
+YLGNNS
+>P-1408, amyloid, label=1
+YLLWYC
+>P-1409, amyloid, label=1
+YLLYYT
+>P-1410, amyloid, label=1
+YLNWYQ
+>P-1411, non-amyloid, label=0
+YLVLIM
+>P-1412, amyloid, label=1
+YLVNFT
+>P-1413, non-amyloid, label=0
+YNAQAQ
+>P-1414, non-amyloid, label=0
+YNNNLQ
+>P-1415, non-amyloid, label=0
+YNNTGS
+>P-1416, amyloid, label=1
+YNNYNN
+>P-1417, non-amyloid, label=0
+YNPDAG
+>P-1418, non-amyloid, label=0
+YNPQGG
+>P-1419, non-amyloid, label=0
+YQAGFQ
+>P-1420, non-amyloid, label=0
+YQAYNA
+>P-1421, non-amyloid, label=0
+YQGYQA
+>P-1422, non-amyloid, label=0
+YQGYSG
+>P-1423, amyloid, label=1
+YQIVYK
+>P-1424, non-amyloid, label=0
+YQLENY
+>P-1425, amyloid, label=1
+YQLIWQ
+>P-1426, non-amyloid, label=0
+YQNYQG
+>P-1427, non-amyloid, label=0
+YQQGGY
+>P-1428, non-amyloid, label=0
+YQQQFN
+>P-1429, non-amyloid, label=0
+YQQQYN
+>P-1430, non-amyloid, label=0
+YQQYNP
+>P-1431, non-amyloid, label=0
+YQQYSQ
+>P-1432, non-amyloid, label=0
+YQYGGG
+>P-1433, non-amyloid, label=0
+YSGSNS
+>P-1434, non-amyloid, label=0
+YSGYQQ
+>P-1435, non-amyloid, label=0
+YSQNGN
+>P-1436, non-amyloid, label=0
+YTFTIS
+>P-1437, non-amyloid, label=0
+YTNISN
+>P-1438, amyloid, label=1
+YTVIIE
+>P-1439, amyloid, label=1
+YVEYIG
+>P-1440, non-amyloid, label=0
+YVSGFH
+>P-1441, non-amyloid, label=0
+YYNYNN
+>P-1442, amyloid, label=1
+YYQNYQ
+>P-1443, non-amyloid, label=0
+YYTEFT
+>P-1444, amyloid, label=1
+AEVSIVV
+>P-1445, amyloid, label=1
+AIAAIVF
+>P-1446, amyloid, label=1
+ANQNNFV
+>P-1447, non-amyloid, label=0
+ATKHKIP
+>P-1448, amyloid, label=1
+CQVNIGN
+>P-1449, amyloid, label=1
+DAQAIAL
+>P-1450, amyloid, label=1
+DFVIFLD
+>P-1451, amyloid, label=1
+EFQEICA
+>P-1452, amyloid, label=1
+FNGLIVV
+>P-1453, amyloid, label=1
+GILNIVV
+>P-1454, amyloid, label=1
+GLINIAT
+>P-1455, non-amyloid, label=0
+GLSAPVD
+>P-1456, amyloid, label=1
+GNNQQNY
+>P-1457, amyloid, label=1
+GQVIWVN
+>P-1458, amyloid, label=1
+GTYSFYT
+>P-1459, amyloid, label=1
+GVVAIGC
+>P-1460, amyloid, label=1
+IFKINVK
+>P-1461, amyloid, label=1
+IIHFGSD
+>P-1462, amyloid, label=1
+KLVFFAE
+>P-1463, amyloid, label=1
+KLVFFAK
+>P-1464, amyloid, label=1
+KMVLYTL
+>P-1465, amyloid, label=1
+KNFNYNI
+>P-1466, amyloid, label=1
+KNNQKNY
+>P-1467, amyloid, label=1
+LASLIYR
+>P-1468, amyloid, label=1
+LKQALKL
+>P-1469, amyloid, label=1
+LVEALYL
+>P-1470, amyloid, label=1
+MIHFGND
+>P-1471, amyloid, label=1
+MMHFGND
+>P-1472, non-amyloid, label=0
+MPEEELL
+>P-1473, non-amyloid, label=0
+NAPGETY
+>P-1474, amyloid, label=1
+NFLVHSS
+>P-1475, amyloid, label=1
+NHVTLSQ
+>P-1476, amyloid, label=1
+NLSLFDQ
+>P-1477, non-amyloid, label=0
+QKLVFFA
+>P-1478, amyloid, label=1
+QQEVINK
+>P-1479, amyloid, label=1
+RLVFFAK
+>P-1480, amyloid, label=1
+RLVFFAR
+>P-1481, amyloid, label=1
+SLLNIVV
+>P-1482, amyloid, label=1
+TAFTILA
+>P-1483, non-amyloid, label=0
+TEAEMKA
+>P-1484, amyloid, label=1
+TGVTAVA
+>P-1485, amyloid, label=1
+TLSIYQY
+>P-1486, amyloid, label=1
+TVIAFLA
+>P-1487, amyloid, label=1
+VGDIVIF
+>P-1488, non-amyloid, label=0
+VKTGVTK
+>P-1489, amyloid, label=1
+VQIVYKK
+>P-1490, amyloid, label=1
+VQQNYQA
+>P-1491, amyloid, label=1
+VVKGVTK
+>P-1492, amyloid, label=1
+VVTGVTA
+>P-1493, amyloid, label=1
+YGNLISL
+>P-1494, amyloid, label=1
+AFGAILSS
+>P-1495, amyloid, label=1
+AGAAAAGA
+>P-1496, amyloid, label=1
+ANYCNFV 
+>P-1497, amyloid, label=1
+CQVNIGNR
+>P-1498, non-amyloid, label=0
+DAAKYSEV
+>P-1499, amyloid, label=1
+DLSFMKGE
+>P-1500, amyloid, label=1
+FLIFLIVG
+>P-1501, amyloid, label=1
+FQVNIGNR
+>P-1502, amyloid, label=1
+GETYVVTL
+>P-1503, amyloid, label=1
+GKVQIVYK
+>P-1504, non-amyloid, label=0
+GQVEVSKE
+>P-1505, amyloid, label=1
+IQVNIGNR
+>P-1506, amyloid, label=1
+KGAIIGLM
+>P-1507, amyloid, label=1
+KGGIIGLM
+>P-1508, amyloid, label=1
+KGIIIGLM
+>P-1509, non-amyloid, label=0
+KIVFKNNA
+>P-1510, non-amyloid, label=0
+KKGHHEAE
+>P-1511, non-amyloid, label=0
+LAIEATPA
+>P-1512, non-amyloid, label=0
+LEVLLGSG
+>P-1513, amyloid, label=1
+LQVNIGNR
+>P-1514, amyloid, label=1
+MQVNIGNR
+>P-1515, non-amyloid, label=0
+MVGKVTVN
+>P-1516, amyloid, label=1
+NAGDVAFV
+>P-1517, amyloid, label=1
+NFAAILSS
+>P-1518, amyloid, label=1
+NFGAALSS
+>P-1519, amyloid, label=1
+NFGAIASS
+>P-1520, amyloid, label=1
+NFGAILSS
+>P-1521, amyloid, label=1
+NFGSVQFV
+>P-1522, non-amyloid, label=0
+PKIKAFLA
+>P-1523, amyloid, label=1
+SELNIYQY
+>P-1524, amyloid, label=1
+SNNFGAIL
+>P-1525, amyloid, label=1
+SNTFINNA
+>P-1526, amyloid, label=1
+TNVGSNTY
+>P-1527, amyloid, label=1
+VQVNIGNR
+>P-1528, amyloid, label=1
+YHIRLSFN
+>P-1529, amyloid, label=1
+ATQRLANFL
+>P-1530, non-amyloid, label=0
+HQKLVFFAE
+>P-1531, amyloid, label=1
+KKKVQIVYK
+>P-1532, non-amyloid, label=0
+KKLPFFAED
+>P-1533, amyloid, label=1
+KKLVFFAED
+>P-1534, amyloid, label=1
+KKLVFFPED
+>P-1535, non-amyloid, label=0
+KKLVFPAED
+>P-1536, non-amyloid, label=0
+KKLVPFAED
+>P-1537, non-amyloid, label=0
+KKPVFFAED
+>P-1538, amyloid, label=1
+LATVYVDVL
+>P-1539, amyloid, label=1
+LVEALYLVC
+>P-1540, non-amyloid, label=0
+NAKAGLSQT
+>P-1541, amyloid, label=1
+NFLVHSSNN
+>P-1542, amyloid, label=1
+PAGGYYQNY
+>P-1543, amyloid, label=1
+PQGGYQQYN
+>P-1544, non-amyloid, label=0
+PSKARIIRY
+>P-1545, amyloid, label=1
+QQGGYQQYN
+>P-1546, amyloid, label=1
+QRLANFLVH
+>P-1547, non-amyloid, label=0
+QTAPVPMPD
+>P-1548, amyloid, label=1
+RQGNINIVA
+>P-1549, amyloid, label=1
+SLYQLENYC
+>P-1550, non-amyloid, label=0
+VDLSKVTSK
+>P-1551, amyloid, label=1
+VGGAVVTGV
+>P-1552, non-amyloid, label=0
+VTLDTKGTY
+>P-1553, non-amyloid, label=0
+AAAGAVVGGL
+>P-1554, non-amyloid, label=0
+ADAVACAKRV
+>P-1555, non-amyloid, label=0
+AESDKKEEEK
+>P-1556, amyloid, label=1
+AFASFQIYAV
+>P-1557, non-amyloid, label=0
+AGYQQQYNPQ
+>P-1558, non-amyloid, label=0
+ATKKVGTKPA
+>P-1559, non-amyloid, label=0
+CAKRVVRDPQ
+>P-1560, non-amyloid, label=0
+CLAKWESGYN
+>P-1561, non-amyloid, label=0
+CNDGKTPGAV
+>P-1562, amyloid, label=1
+CPLMVKVLDA
+>P-1563, amyloid, label=1
+DIQKVAGTWY
+>P-1564, non-amyloid, label=0
+DKKEEEKSAE
+>P-1565, non-amyloid, label=0
+DLLKNGERIE
+>P-1566, amyloid, label=1
+DLSFSKDWSF
+>P-1567, amyloid, label=1
+DVKVGDIVIF
+>P-1568, non-amyloid, label=0
+DVRQYVQGCG
+>P-1569, non-amyloid, label=0
+EDRYYRENMH
+>P-1570, non-amyloid, label=0
+EEEKSAETKE
+>P-1571, non-amyloid, label=0
+EEKPVQTEEK
+>P-1572, non-amyloid, label=0
+EEPVKKEEKP
+>P-1573, non-amyloid, label=0
+EKSELPKVED
+>P-1574, non-amyloid, label=0
+ELKPLAQSHA
+>P-1575, non-amyloid, label=0
+ELLNAPGETY
+>P-1576, non-amyloid, label=0
+ELPKVEDLKI
+>P-1577, non-amyloid, label=0
+ENFTETDVKM
+>P-1578, non-amyloid, label=0
+EPTKEPTKVE
+>P-1579, non-amyloid, label=0
+EQMCITQYER
+>P-1580, non-amyloid, label=0
+ESGYNTRATN
+>P-1581, non-amyloid, label=0
+ESQAYYQRGS
+>P-1582, non-amyloid, label=0
+ETKEPTKEPT
+>P-1583, non-amyloid, label=0
+FGSDYEDRYY
+>P-1584, non-amyloid, label=0
+GERIEKVEHS
+>P-1585, non-amyloid, label=0
+GGKDWWKVGG
+>P-1586, non-amyloid, label=0
+GGYMLGSAMS
+>P-1587, amyloid, label=1
+GGYYQNYQGY
+>P-1588, non-amyloid, label=0
+GIFQINSRYW
+>P-1589, non-amyloid, label=0
+GIKLANATKK
+>P-1590, non-amyloid, label=0
+GIRAWVAWRN
+>P-1591, amyloid, label=1
+GNNQQNYQQY
+>P-1592, non-amyloid, label=0
+GSAMSRPIIH
+>P-1593, non-amyloid, label=0
+GTDFKYKGKL
+>P-1594, amyloid, label=1
+GYLTVAAVFR
+>P-1595, non-amyloid, label=0
+HMAGAAAAGA
+>P-1596, non-amyloid, label=0
+HPAENGKSNF
+>P-1597, non-amyloid, label=0
+HSQWNKPSKP
+>P-1598, amyloid, label=1
+ILLISFLIFL
+>P-1599, amyloid, label=1
+IVAGVNYFLD
+>P-1600, amyloid, label=1
+KDWSFYLLYY
+>P-1601, non-amyloid, label=0
+KEPTKVEEPV
+>P-1602, non-amyloid, label=0
+KLVSSSGIKL
+>P-1603, non-amyloid, label=0
+KNNAGFPHNV
+>P-1604, non-amyloid, label=0
+KPKKTLKLVS
+>P-1605, non-amyloid, label=0
+KPSKPKTNMK
+>P-1606, non-amyloid, label=0
+KSAETKEPTK
+>P-1607, non-amyloid, label=0
+KTEEKSELPK
+>P-1608, non-amyloid, label=0
+KTLKLVSSSG
+>P-1609, non-amyloid, label=0
+KTNMKHMAGA
+>P-1610, non-amyloid, label=0
+KVEHSDLSFS
+>P-1611, non-amyloid, label=0
+KVGTKPAESD
+>P-1612, amyloid, label=1
+KYLLFCMENS
+>P-1613, non-amyloid, label=0
+LANATKKVGT
+>P-1614, amyloid, label=1
+LANWMCLAKW
+>P-1615, non-amyloid, label=0
+LGMDGYRGIS
+>P-1616, non-amyloid, label=0
+LNCYVSGFHP
+>P-1617, non-amyloid, label=0
+LQDNIADAVA
+>P-1618, non-amyloid, label=0
+MDEYSNQNNF
+>P-1619, non-amyloid, label=0
+MERVVEQMCI
+>P-1620, non-amyloid, label=0
+NACHLSCSAL
+>P-1621, amyloid, label=1
+NDFQKQQKQA
+>P-1622, amyloid, label=1
+NFNYNNNLQG
+>P-1623, non-amyloid, label=0
+NHVTLSQPKI
+>P-1624, non-amyloid, label=0
+NITIKQHTVT
+>P-1625, amyloid, label=1
+NLQGYQAGFQ
+>P-1626, non-amyloid, label=0
+NQNNFVHDCV
+>P-1627, non-amyloid, label=0
+NSRYWCNDGK
+>P-1628, amyloid, label=1
+PDAGYQQQYN
+>P-1629, non-amyloid, label=0
+PGGGKVYKPV
+>P-1630, amyloid, label=1
+PQGGRGNYKN
+>P-1631, amyloid, label=1
+PQGGYQQQFN
+>P-1632, non-amyloid, label=0
+PVQTEEKTEE
+>P-1633, non-amyloid, label=0
+QGGGTHSQWN
+>P-1634, non-amyloid, label=0
+QGGYQQYNPQ
+>P-1635, non-amyloid, label=0
+QHTVTTTTKG
+>P-1636, non-amyloid, label=0
+QQQYNPQGGY
+>P-1637, non-amyloid, label=0
+QVYSRHPAEN
+>P-1638, amyloid, label=1
+RCELARTLKR
+>P-1639, non-amyloid, label=0
+RCQNRDVRQY
+>P-1640, non-amyloid, label=0
+RENMHRYPNQ
+>P-1641, amyloid, label=1
+RLANFLVHSS
+>P-1642, non-amyloid, label=0
+RSTDYGIFQI
+>P-1643, non-amyloid, label=0
+RTLKRLGMDG
+>P-1644, non-amyloid, label=0
+RTPKIQVYSR
+>P-1645, non-amyloid, label=0
+RYPNQVYYRP
+>P-1646, amyloid, label=1
+RYQGYQAYNA
+>P-1647, non-amyloid, label=0
+SCSALLQDNI
+>P-1648, non-amyloid, label=0
+SDIEVDLLKN
+>P-1649, non-amyloid, label=0
+SEFSVPSGEK
+>P-1650, non-amyloid, label=0
+SGFHPSDIEV
+>P-1651, non-amyloid, label=0
+SLVFVPSEFS
+>P-1652, amyloid, label=1
+SMVLFSSPPV
+>P-1653, amyloid, label=1
+SNNFGAILSS
+>P-1654, amyloid, label=1
+SSPPVILLIS
+>P-1655, non-amyloid, label=0
+SSSGIKLANA
+>P-1656, amyloid, label=1
+SSTSAASSNY
+>P-1657, non-amyloid, label=0
+TDVKMMERVV
+>P-1658, non-amyloid, label=0
+TEEKTEEKSE
+>P-1659, amyloid, label=1
+TEFTPTEKDE
+>P-1660, non-amyloid, label=0
+TEKDEYACRV
+>P-1661, non-amyloid, label=0
+TKPAESDKKE
+>P-1662, non-amyloid, label=0
+TKVEEPVKKE
+>P-1663, non-amyloid, label=0
+TPGAVNACHL
+>P-1664, non-amyloid, label=0
+TQYERESQAY
+>P-1665, non-amyloid, label=0
+TRATNYNAGD
+>P-1666, non-amyloid, label=0
+TTTKGENFTE
+>P-1667, non-amyloid, label=0
+VAWRNRCQNR
+>P-1668, amyloid, label=1
+VHDCVNITIK
+>P-1669, non-amyloid, label=0
+VKKEEKPVQT
+>P-1670, non-amyloid, label=0
+VRDPQGIRAW
+>P-1671, non-amyloid, label=0
+VVGGLGGYML
+>P-1672, non-amyloid, label=0
+VYYRPMDEYS
+>P-1673, non-amyloid, label=0
+YACRVNHVTL
+>P-1674, amyloid, label=1
+YLLYYTEFTP
+>P-1675, non-amyloid, label=0
+YNAGDRSTDY
+>P-1676, amyloid, label=1
+YNNNLQGYQA
+>P-1677, non-amyloid, label=0
+YNPQGGYQQQ
+>P-1678, non-amyloid, label=0
+YNPQGGYQQY
+>P-1679, amyloid, label=1
+YQNYQGYSGY
+>P-1680, amyloid, label=1
+YQQGGYQQYN
+>P-1681, non-amyloid, label=0
+YQQYNPQGGY
+>P-1682, non-amyloid, label=0
+YQRGSSMVLF
+>P-1683, non-amyloid, label=0
+YRGISLANWM
+>P-1684, amyloid, label=1
+YSGYQQGGYQ
+>P-1685, amyloid, label=1
+YSQNGNQQQG
+>P-1686, amyloid, label=1
+AIIGLMVGGVV
+>P-1687, amyloid, label=1
+CATQRLANFLV
+>P-1688, amyloid, label=1
+CPLMVKVLDAV
+>P-1689, amyloid, label=1
+FSMLVAAIQSA
+>P-1690, amyloid, label=1
+GAVVTGVTAVA
+>P-1691, amyloid, label=1
+GYANNFLFKQG
+>P-1692, amyloid, label=1
+HHQKLVFFAED
+>P-1693, amyloid, label=1
+ILLISFLFIFL
+>P-1694, non-amyloid, label=0
+KRNNFKSAEDS
+>P-1695, amyloid, label=1
+MKVIFLKDVKG
+>P-1696, amyloid, label=1
+MSTYTGIFTDQ
+>P-1697, amyloid, label=1
+RTVKKNIIEEN
+>P-1698, amyloid, label=1
+SFFSFLGEAFD
+>P-1699, amyloid, label=1
+SFNNGDCFILD
+>P-1700, amyloid, label=1
+SFNNGNCFILD
+>P-1701, amyloid, label=1
+SFNNGYCFILD
+>P-1702, amyloid, label=1
+VALRIQNVRFS
+>P-1703, amyloid, label=1
+VTGVTAVQKTV
+>P-1704, amyloid, label=1
+VVLDDKDYFLF
+>P-1705, amyloid, label=1
+YTIAALLSPYS
+>P-1706, non-amyloid, label=0
+YTSPHQGAGMV
+>P-1707, amyloid, label=1
+AASIKVAVSADR
+>P-1708, amyloid, label=1
+DISTKYFQMSLE
+>P-1709, non-amyloid, label=0
+FHPSDIEVDLLK
+>P-1710, amyloid, label=1
+GAVVYSGSLYFQ
+>P-1711, amyloid, label=1
+GQQQQQQQQQQG
+>P-1712, amyloid, label=1
+IPAGVDAVKISM
+>P-1713, amyloid, label=1
+KFFEAAAKKFFE
+>P-1714, non-amyloid, label=0
+KGKKGEIKNVAD
+>P-1715, non-amyloid, label=0
+KIVFKNNAGFPH
+>P-1716, non-amyloid, label=0
+LKNVKSKIGSTE
+>P-1717, amyloid, label=1
+LSNIDYILIKAS
+>P-1718, amyloid, label=1
+NFGAILSSTNVG
+>P-1719, non-amyloid, label=0
+PLLSAYVARLSA
+>P-1720, amyloid, label=1
+SAKVDAIGLEIV
+>P-1721, amyloid, label=1
+SLVCQCLVRTPW
+>P-1722, amyloid, label=1
+VILQQSAADIAR
+>P-1723, amyloid, label=1
+VTGVTAVAQKTV
+>P-1724, amyloid, label=1
+VTVKVDAVKVTV
+>P-1725, amyloid, label=1
+VTVKVEAVKVTV
+>P-1726, amyloid, label=1
+VTVKVNAVKVTV
+>P-1727, amyloid, label=1
+WQQVLNVWGKVE
+>P-1728, non-amyloid, label=0
+ARIIRYFYNAKAG
+>P-1729, amyloid, label=1
+ATQRLANFLVHSS
+>P-1730, amyloid, label=1
+DWSFYLLYYTEFT
+>P-1731, amyloid, label=1
+DYFLFRDGDILGK
+>P-1732, amyloid, label=1
+EDVAVYYCHQYYS
+>P-1733, amyloid, label=1
+EQVTNVGGAVVTG
+>P-1734, amyloid, label=1
+ISKLEYSNFSVRY
+>P-1735, amyloid, label=1
+KLKLKLELELELG
+>P-1736, amyloid, label=1
+LDNWDSVTSTFSK
+>P-1737, amyloid, label=1
+LGVVGSTTTQLYT
+>P-1738, non-amyloid, label=0
+LSQPKIVKWDRDM
+>P-1739, non-amyloid, label=0
+NGKSNFLNCYVSG
+>P-1740, amyloid, label=1
+NHAIVQTLVNSVN
+>P-1741, non-amyloid, label=0
+PGGGKNAEVYKPV
+>P-1742, non-amyloid, label=0
+PGGGKVQIVEKPV
+>P-1743, amyloid, label=1
+PGGGKVQIVYKPV
+>P-1744, non-amyloid, label=0
+PHNVVFDEDDEIP
+>P-1745, amyloid, label=1
+VHHQKLVFFAEDV
+>P-1746, non-amyloid, label=0
+AAFHRWSSYMVHWK
+>P-1747, amyloid, label=1
+AEAHRWSSYMVHWK
+>P-1748, amyloid, label=1
+AEFARWSSYMVHWK
+>P-1749, amyloid, label=1
+AEFHRWSAYMVHWK
+>P-1750, amyloid, label=1
+AEFHRWSSAMVHWK
+>P-1751, non-amyloid, label=0
+AEFHRWSSYMVHWA
+>P-1752, amyloid, label=1
+AEFHRWSSYMVHWK
+>P-1753, amyloid, label=1
+AEFHRWSSYMVYWK
+>P-1754, amyloid, label=1
+AVVGGLGGYMLGSA
+>P-1755, amyloid, label=1
+DCVNITIKQHTVTT
+>P-1756, amyloid, label=1
+DFVIFLDVKHFSPE
+>P-1757, amyloid, label=1
+DNNNSANYQVSTSK
+>P-1758, non-amyloid, label=0
+FKSAEDSMRTSGGA
+>P-1759, amyloid, label=1
+LVEVGGDVQLDSVR
+>P-1760, amyloid, label=1
+MKHMAGAAAAGAVV
+>P-1761, amyloid, label=1
+RVEKVAILGLMVLA
+>P-1762, amyloid, label=1
+SFFSFLGEAFDGAR
+>P-1763, amyloid, label=1
+VEAKFINYVKNCFR
+>P-1764, amyloid, label=1
+VGDIVIFNDGYGVK
+>P-1765, amyloid, label=1
+VNITIKQHTVTTTT
+>P-1766, amyloid, label=1
+AGAAAAGAVVGGLGG
+>P-1767, non-amyloid, label=0
+EDGVDALNKLQAGGY
+>P-1768, non-amyloid, label=0
+EPSEQFIKQHDFSSY
+>P-1769, non-amyloid, label=0
+EVEDYFEEAIRAGLH
+>P-1770, amyloid, label=1
+EVHHQKLVFFAEDVG
+>P-1771, non-amyloid, label=0
+EYSAMRDQYMRTGEG
+>P-1772, amyloid, label=1
+FNNGDCFILDLGNNI
+>P-1773, amyloid, label=1
+FNNGNCFILDLGNNI
+>P-1774, amyloid, label=1
+FNNGYCFILDLGNNI
+>P-1775, non-amyloid, label=0
+HPETLEKFDRFKHLK
+>P-1776, amyloid, label=1
+LEVLLGSGDGSLVFV
+>P-1777, amyloid, label=1
+MLSNTTAIAEAWARL
+>P-1778, non-amyloid, label=0
+PEDKVNSMKSWLSKV
+>P-1779, non-amyloid, label=0
+PTGKDEYACRVNHVT
+>P-1780, non-amyloid, label=0
+RFRAVTSAYYRGAVG
+>P-1781, non-amyloid, label=0
+RPDFSLEPPYTGPSK
+>P-1782, amyloid, label=1
+RSFFSFLGEAFDGAR
+>P-1783, amyloid, label=1
+VHHPKLVFFAEDVGS
+>P-1784, amyloid, label=1
+VHHQKLVFFAEDVGS
+>P-1785, non-amyloid, label=0
+VHHQKLVPFAEDVGS
+>P-1786, amyloid, label=1
+VHHQPLVFFAEDVGS
+>P-1787, amyloid, label=1
+VHPQKLVFFAEDVGS
+>P-1788, amyloid, label=1
+VPHQKLVFFAEDVGS
+>P-1789, non-amyloid, label=0
+YKMTQTELATKAGVK
+>P-1790, non-amyloid, label=0
+AKNVDYCKEWLVNHIK
+>P-1791, amyloid, label=1
+AVVGGLGGYMLGSAMS
+>P-1792, amyloid, label=1
+DCVNITIKQHTVTTTT
+>P-1793, amyloid, label=1
+DVAGHGQDILIRLFKS
+>P-1794, amyloid, label=1
+DWWKVEVNDRQGFVPA
+>P-1795, amyloid, label=1
+DYFLFRDGDILGKYVD
+>P-1796, amyloid, label=1
+GEWTYDDATKTFTVTE
+>P-1797, amyloid, label=1
+GSNKGAAIGLMVGGVV
+>P-1798, amyloid, label=1
+GSNKGAIIGLMVAGVV
+>P-1799, amyloid, label=1
+GSNKGAIIGLMVGGVV
+>P-1800, amyloid, label=1
+GSTDYGILQINSRWWC
+>P-1801, amyloid, label=1
+GSTDYGILQINSRWWS
+>P-1802, amyloid, label=1
+GSTDYGTLQINSRWWS
+>P-1803, non-amyloid, label=0
+IQRTPKIQVYSRHPAE
+>P-1804, amyloid, label=1
+LSQTFVYGGSRAKRNN
+>P-1805, amyloid, label=1
+LVEVGGDVQLDSVRIF
+>P-1806, non-amyloid, label=0
+MDGLELLKTIRADSAY
+>P-1807, amyloid, label=1
+MSSYAFFVQTCREEHK
+>P-1808, non-amyloid, label=0
+QGVSFRMYTEDEARKI
+>P-1809, amyloid, label=1
+VHHQEKLVFFAEDPGS
+>P-1810, amyloid, label=1
+VHHQEKLVFFAEDVPS
+>P-1811, amyloid, label=1
+VHHQEKLVFFAEPVGS
+>P-1812, non-amyloid, label=0
+VHHQEKLVFFAPDVGS
+>P-1813, non-amyloid, label=0
+VNGMELSKQILQENPH
+>P-1814, amyloid, label=1
+VTNVGGAVVTGVTAVA
+>P-1815, non-amyloid, label=0
+YKQQSIQLIEAGVTKR
+>P-1816, amyloid, label=1
+AKKENIIAAAQAGASGY
+>P-1817, non-amyloid, label=0
+AVSVEEGKALAEEEGLF
+>P-1818, amyloid, label=1
+DIKIMERVVEQMCTTQY
+>P-1819, non-amyloid, label=0
+GSPSSRIDRTNFSNEKT
+>P-1820, non-amyloid, label=0
+MQTLSERLKKRRIALKY
+>P-1821, amyloid, label=1
+RLLIVVVVVVLVVVVIV
+>P-1822, amyloid, label=1
+RLVEVGGDVQLDSVRIF
+>P-1823, non-amyloid, label=0
+STAQSLKSVDYEVFGRV
+>P-1824, amyloid, label=1
+TKRPRFLYEIAMALNSD
+>P-1825, non-amyloid, label=0
+TPANLKALEAQKQKEQR
+>P-1826, amyloid, label=1
+VANAFIICGTLYTVSSY
+>P-1827, non-amyloid, label=0
+YDYQEKSPREVTMKKGD
+>P-1828, amyloid, label=1
+YEVHHQKLVFFAEDVGS
+>P-1829, amyloid, label=1
+AGAVVGGLGGYMLGSAMS
+>P-1830, non-amyloid, label=0
+AVGKSNLLSRYARNEFSA
+>P-1831, non-amyloid, label=0
+AYVKKLDSGTGKELVLAL
+>P-1832, amyloid, label=1
+DFVIFLDVKHFSPEDLTV
+>P-1833, non-amyloid, label=0
+EESEFEPFIEEISTKISY
+>P-1834, amyloid, label=1
+EQVTNVGGAVVTGVTAVA
+>P-1835, amyloid, label=1
+FSMLVAAIQSAGLTETLN
+>P-1836, amyloid, label=1
+FVIFLDVKHFSPEDLTVK
+>P-1837, amyloid, label=1
+FVNVEAVKAFLEAHGIAY
+>P-1838, amyloid, label=1
+FVNVQAVKVFLESQGIAY
+>P-1839, amyloid, label=1
+GNLPFLGTAGVAGEFPTA
+>P-1840, amyloid, label=1
+GSTTTQLYTDCTEKLRPE
+>P-1841, amyloid, label=1
+GSTTTQLYTDRTEKLRPE
+>P-1842, amyloid, label=1
+GVGKSALTIQLIQNHFVY
+>P-1843, non-amyloid, label=0
+GWEIPEPYVWDESFRVFY
+>P-1844, amyloid, label=1
+IKYLEFISQAIIHVLHSR
+>P-1845, amyloid, label=1
+KFVIFLDVKHFSPEDLTV
+>P-1846, amyloid, label=1
+MPEEELLNAPGETYVVTL
+>P-1847, non-amyloid, label=0
+NGERIEKVEHSDLSFSKD
+>P-1848, non-amyloid, label=0
+PVTQEFWDNLEKETEGLR
+>P-1849, amyloid, label=1
+RGGRLCYCRRRFCVCVGR
+>P-1850, amyloid, label=1
+TAAMSTYTGIFTDQVLSV
+>P-1851, amyloid, label=1
+TCFFRDHSYQEEAAVELK
+>P-1852, amyloid, label=1
+TVNGVGEVTATAVQGVAV
+>P-1853, non-amyloid, label=0
+TYKLINGKTLKGETTTEA
+>P-1854, non-amyloid, label=0
+VTSKCGSLGNIHHKPGGG
+>P-1855, non-amyloid, label=0
+ARTVESRQAQDLARSYGIP
+>P-1856, amyloid, label=1
+DDQQQQQQQQQQQQQQQKK
+>P-1857, non-amyloid, label=0
+DFSTMRRIVRNLLKELGYN
+>P-1858, amyloid, label=1
+EVVPHKKMHKDFLEKIGGL
+>P-1859, non-amyloid, label=0
+GDGKWMRDFEQRMNGYGSV
+>P-1860, non-amyloid, label=0
+GLWVIYSTDEAKGAIVLSK
+>P-1861, amyloid, label=1
+GYEVHHQKLVFFAEDVGSN
+>P-1862, amyloid, label=1
+NLKHQPGGGKVQIVYKEVD
+>P-1863, amyloid, label=1
+RQGVEDAFYTLVREIRQHK
+>P-1864, amyloid, label=1
+STNVKTAFEMVILDIYNNV
+>P-1865, amyloid, label=1
+VLSEGEWQLVLHVWAKVEA
+>P-1866, non-amyloid, label=0
+AMALNCDPVWLQYGTKRGKA
+>P-1867, non-amyloid, label=0
+DHPAVMEGTKTILETDSNLS
+>P-1868, amyloid, label=1
+DILTLLNSTNKDWWKVEVND
+>P-1869, amyloid, label=1
+DWSFYLLYYTEFTPTGKDEY
+>P-1870, non-amyloid, label=0
+EPDEAEQDSIEFGKKIANIY
+>P-1871, amyloid, label=1
+EQVTNVGGAVVTGVTAVAQK
+>P-1872, non-amyloid, label=0
+GDAATAEKVFKQYANDNGVD
+>P-1873, amyloid, label=1
+GEKIVFKNNAGFPHNVVFDE
+>P-1874, amyloid, label=1
+GVVGWVKNTSKGTVTGQVQG
+>P-1875, amyloid, label=1
+KETAAAKFERQHMDSSTSAA
+>P-1876, amyloid, label=1
+MAIVGTIIKIIKAIIDIFAK
+>P-1877, amyloid, label=1
+NFLNCYVSGFHPSDIEVDLL
+>P-1878, amyloid, label=1
+PGGGSVQIVYKPVDLSKVTS
+>P-1879, amyloid, label=1
+QISFADYNLLDLLRIHQVLN
+>P-1880, non-amyloid, label=0
+SEDLKKHGVTVLTALGAILK
+>P-1881, non-amyloid, label=0
+SEVVFNSKEQGSWGREERGP
+>P-1882, amyloid, label=1
+TESKEKITQYIYHVLNGEIL
+>P-1883, amyloid, label=1
+WNFAGIEAAASAIQGNVTSI
+>P-1884, amyloid, label=1
+DWSFYLLYYTEFTPTGKDEYA
+>P-1885, amyloid, label=1
+GEYTVDVADKGYTLNIKFAGD
+>P-1886, amyloid, label=1
+GYMLGSAMSRPIIHFGSDYED
+>P-1887, amyloid, label=1
+KTNMKHMAGAAAAGAVVGGLG
+>P-1888, amyloid, label=1
+MGIIAGIIKFIKGLIEKFTGK
+>P-1889, amyloid, label=1
+MGIIAGIIKVIKSLIEQFTGK
+>P-1890, amyloid, label=1
+PFTAATLEEKLNKIFEKLGMY
+>P-1891, non-amyloid, label=0
+QTAPVPMPDLKNVKSKIGSTE
+>P-1892, amyloid, label=1
+SGYEVHHQKLVFFAEDVGSNK
+>P-1893, amyloid, label=1
+STAAMSTYTGIFTDQVLSVLK
+>P-1894, amyloid, label=1
+TNVKHVAGAAAAGAVVGGLGG
+>P-1895, non-amyloid, label=0
+TRRTTFESVGRWLDELKIHSD
+>P-1896, amyloid, label=1
+VTIKANLIFANGFTQTAEFKG
+>P-1897, amyloid, label=1
+YEQLDEEHKKIFKGIFDCIRD
+>P-1898, non-amyloid, label=0
+DAALHFNPRLDTSEVVFNSKEQ
+>P-1899, amyloid, label=1
+DDNNQQNYQQYSQNGNQQQGKK
+>P-1900, amyloid, label=1
+ELEAQVINTFDGVADYLQTYHK
+>P-1901, amyloid, label=1
+ELSAQVINTFDGVADYLQTYHK
+>P-1902, amyloid, label=1
+ESLAQVINTFDGVADYLQTYHK
+>P-1903, amyloid, label=1
+GTVSFVTSPHQGAGMVGKVTVN
+>P-1904, non-amyloid, label=0
+KDRVQSKIGSLDNITHVPGGGN
+>P-1905, amyloid, label=1
+KLSAQVINTFDGVADYLQTYHK
+>P-1906, amyloid, label=1
+KSEAQVINTFDGVADYLQTYHK
+>P-1907, amyloid, label=1
+LGVVGSTTTQLYTDSTEKLRPE
+>P-1908, amyloid, label=1
+LLSAQVINTFDGVADYLQTYHK
+>P-1909, amyloid, label=1
+SLEAQVINTFDGVADYLQTYHK
+>P-1910, amyloid, label=1
+SLSAQVINTFDGVADYLQTYHK
+>P-1911, amyloid, label=1
+SNFLNCYVSGFHPSDIEVDLLK
+>P-1912, non-amyloid, label=0
+VPSNEEQIKKLLELEAKKHLQY
+>P-1913, non-amyloid, label=0
+VPSNEEQIKNLLQLEAQEHLQY
+>P-1914, amyloid, label=1
+DSGYEVHHQKLVFFAEDVGSNKG
+>P-1915, non-amyloid, label=0
+GTGNTEKMAELIAKGIIESGKDY
+>P-1916, non-amyloid, label=0
+INNTKSFEDIHQYREQIKRVKDS
+>P-1917, amyloid, label=1
+KSSTEEKYNEKGELSEKKITRAD
+>P-1918, amyloid, label=1
+QNNFVHDCVNITIKQHTVTTTTK
+>P-1919, amyloid, label=1
+AEAIGNVAVAGELPVAGKTAVAGR
+>P-1920, amyloid, label=1
+GAAVPGVLGGLGALGGVGIPGGVV
+>P-1921, non-amyloid, label=0
+LSKVTSKCGSLGNIHHKPGGGQVE
+>P-1922, amyloid, label=1
+LVFFAEDVGSNKGAIIGLMVGGVV
+>P-1923, non-amyloid, label=0
+PHKSSLPEGIRPGTVLRIRGLVPP
+>P-1924, amyloid, label=1
+SAPNLATLVKVTTNHFTHEEAMMD
+>P-1925, amyloid, label=1
+GAAGLGGLGVGGLGVPGVGGLGGLV
+>P-1926, amyloid, label=1
+GLVGAAGLGGLGVGGLGVPGVGGLG
+>P-1927, amyloid, label=1
+HDSGYEVHHQKLVFFAEDVGSNKGA
+>P-1928, amyloid, label=1
+IKNESKASNTFINNAANMSIRRSMA
+>P-1929, amyloid, label=1
+IKNESKYSNTFINNAYNMSIRRSMA
+>P-1930, amyloid, label=1
+KGTFEKATSEAYAYADTLKKDNGEY
+>P-1931, non-amyloid, label=0
+YEAGKEKYVKELPEHLKPFETLLSQ
+>P-1932, amyloid, label=1
+AVRLSLGAQNLASSQIQRNPVLITLG
+>P-1933, amyloid, label=1
+CHQKLVFFAEDYNGKDEAFFVLKQHW
+>P-1934, amyloid, label=1
+CHQKLVFFAEDYNGKHQKLVFFAEDC
+>P-1935, amyloid, label=1
+CHQKLVFFAEDYNGKHQKLVFFAEDW
+>P-1936, non-amyloid, label=0
+KLDFKDRVQSKIGSLDNITHVPGGGN
+>P-1937, non-amyloid, label=0
+SRFHVNLLCGEEQGSDAALHFNPRLD
+>P-1938, amyloid, label=1
+DILTLLNSTNKDWWKVEVNDRQGFVPA
+>P-1939, amyloid, label=1
+CHQKLVFFAEDDYNGKHQKLVFFAEDSC
+>P-1940, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNK
+>P-1941, non-amyloid, label=0
+DQKEAALVDMVNDGVEDLRCKYATLIYT
+>P-1942, amyloid, label=1
+ETDVKMMERVVEQMCVTQYQKESQAYYD
+>P-1943, amyloid, label=1
+KPFIARFEGRLFSRSDELKAIIKELTGE
+>P-1944, amyloid, label=1
+KPFLARFRGRIFSRSDELRTLIAAFTGE
+>P-1945, amyloid, label=1
+KPFLARVEGRIFSRSDELRAYITAYTGE
+>P-1946, amyloid, label=1
+KPFTARFEGRIFSRSDELRALITEITGE
+>P-1947, amyloid, label=1
+KPFTARISGRLFSRSDELKTIIATITGE
+>P-1948, amyloid, label=1
+KPYIARFEGRLFSRSDELRAVIEAHTGE
+>P-1949, amyloid, label=1
+VHHQKLVFFAEDVGSNKAIIGLMVGGVV
+>P-1950, amyloid, label=1
+EPEITLIIFGVMAGVIGTILLISYGIRRL
+>P-1951, amyloid, label=1
+GLSDGEQQVLVWIVNVWGKEADAGHGQEL
+>P-1952, amyloid, label=1
+GLSDGEQQVLWINVWGKVEADAGHGQEVL
+>P-1953, amyloid, label=1
+GLSDGEWQQVENVWGKVEADIAGHGQLVL
+>P-1954, amyloid, label=1
+GLSDGEWQQVLENVWGKVEADIAGHGQVL
+>P-1955, amyloid, label=1
+GLSDGEWQQVLNVWGKVEADIAGHGQEVL
+>P-1956, amyloid, label=1
+HSQGTFTSDYSKYLDSRRAQDFVQWLMNT
+>P-1957, amyloid, label=1
+GQPFEVLIIASDDGFKAVVGDAQYHHFRHR
+>P-1958, non-amyloid, label=0
+VKSEKLDFKDRVQSKIGSLDNITHVPGGGN
+>P-1959, amyloid, label=1
+EGEWQLVLHVWAKVEADVAGHGQDILIRLFK
+>P-1960, amyloid, label=1
+FHVNLLCGEEQGSDAALHFNPRLDTSEVVFN
+>P-1961, amyloid, label=1
+VNLLCGEEQGSDAALHFNPRLDTSEVVFNSK
+>P-1962, amyloid, label=1
+YEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+>P-1963, amyloid, label=1
+FHVNLLCGEEQGSDAALHFNPRLDTSEVVFNS
+>P-1964, amyloid, label=1
+HVNLLCGEEQGSDAALHFNPRLDTSEVVFNSK
+>P-1965, amyloid, label=1
+FHVNLLCGEEQGSDAALHFNPRLDTSEVVFNSK
+>P-1966, amyloid, label=1
+YHSRALQVVRARKQIVAGVNYFLDVELGRTTCT
+>P-1967, amyloid, label=1
+YHSRALQVVRARKQIVAGVNYFLDVEQGRTTCT
+>P-1968, amyloid, label=1
+EASNCFAIRHFENKFAVETLICFNLFLNSQEKHY
+>P-1969, amyloid, label=1
+EASNCFAIRHFENKFAVETLICSRTVKKNIIEEN
+>P-1970, amyloid, label=1
+LPICPGGAARCQTVLRDLFDRAVVLSHYIHNLSS
+>P-1971, amyloid, label=1
+FGIPCCPVHLKRLLIVVVVVVLVVVVIVGALLMGL
+>P-1972, non-amyloid, label=0
+FHVNLLCGEEQGSDAALHFNPRLDTSEVVFNSKEQ
+>P-1973, amyloid, label=1
+RFHVNLLCGEEQGSDAALHFNPRLDTSEVVFNSKE
+>P-1974, amyloid, label=1
+SRFHVNLLCGEEQGSDAALHFNPRLDTSEVVFNSK
+>P-1975, amyloid, label=1
+IRKRYRKFLNESYKHEQVYIRSTDVDRTLMSAMTNL
+>P-1976, non-amyloid, label=0
+KPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDF
+>P-1977, non-amyloid, label=0
+QTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIVY
+>P-1978, amyloid, label=1
+SRFHVNLLCGEEQGSDAALHFNPRLDTSEVVFNSKEQ
+>P-1979, amyloid, label=1
+GIHKQKEKSRLQGGVLVNEILNHMKRATQIPSYKKLIMY
+>P-1980, amyloid, label=1
+DAAFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+>P-1981, amyloid, label=1
+DAEFRHDSGYEVHHLKLVFFAEDVGSNKGAIIGLMVGGVV
+>P-1982, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAADVGSNKGAIIGLMVGGVV
+>P-1983, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFADDVGSNKGAIIGLMVGGVV
+>P-1984, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDMGSNKGAIIGLMVGGVV
+>P-1985, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLLVGGVV
+>P-1986, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMPGGVV
+>P-1987, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+>P-1988, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGPVV
+>P-1989, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVPGVV
+>P-1990, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIVLMVGGVA
+>P-1991, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSSKGAIIGLMVGGVV
+>P-1992, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEYVGSNKGAIIGLMVGGVV
+>P-1993, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAPDVGSNKGAIIGLMVGGVV
+>P-1994, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAQDVGSNKGAIIGLMVGGVV
+>P-1995, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFMEDVGSNKGAIIGLLVGGVV
+>P-1996, amyloid, label=1
+DAEFRHDSGYEVHHQKLVVFVEDVGSNKGAIIGLMVGGVV
+>P-1997, amyloid, label=1
+DAEFRHDSGYEVHHQKPVFFAEDVGSNKGAIIGLMVGGVV
+>P-1998, amyloid, label=1
+DAEFRHDSGYEVHHQTLVFFAEDAGSNKGAIIGLMVGGVV
+>P-1999, amyloid, label=1
+DAEFRHDSGYEVHHQTLVFFVEDVGSNKGAIIGLMVGGVV
+>P-2000, amyloid, label=1
+DAEFRHDSGYEVHHRKLVFFAEDVGSNKGAIIGLMVGGVV
+>P-2001, amyloid, label=1
+DAEFRHDSGYEVHPQKLVFFAEDVGSNKGAIIGLMVGGVV
+>P-2002, amyloid, label=1
+DAEFRHDSGYEVHYQKLVFFAEDVGSNKGAIIGLMVGGVV
+>P-2003, amyloid, label=1
+DAEFRHNSGYEVHYQKLVFFAEDVGSNKGAIIGLMVGGVM
+>P-2004, amyloid, label=1
+DAEPRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+>P-2005, amyloid, label=1
+DVEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+>P-2006, amyloid, label=1
+DVEFRHDSGYEVHHQKLVFFAEDVGSNKGALIGLLVGGVV
+>P-2007, amyloid, label=1
+DVEFRHDSGYEVHHQKLVFFAGDVGSNKGAIIGLMVGGVV
+>P-2008, amyloid, label=1
+GAEFRHDSGYEVHHQKLVFFVEDVGSNKGAIIGLMVGGVV
+>P-2009, amyloid, label=1
+DAEFRHDSGYEVHHQKLVAFFEDVGSNKGAIIGLLGGVVVIA
+>P-2010, amyloid, label=1
+DAEFRHDSGYEVHHQKLVAFFEDVGSNKGAIIGLLVGGVVIA
+>P-2011, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNDGAIIGLLVGFVVIA
+>P-2012, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNDGAIIGLLVGGVVIA
+>P-2013, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLLVGGVVIA
+>P-2014, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA
+>P-2015, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEKVGSNDGAIIGLLVGGVVIA
+>P-2016, amyloid, label=1
+DAEFRHDSGYEVHHQKLVFFAEKVGSNKGAIIGLLVGGVVIA
+>P-2017, amyloid, label=1
+DAEFRHDSGYEVHHQKLVGFAEDVGSNKGAIIGLLVGFVVIA
+>P-2018, amyloid, label=1
+DAEFRHDSGYEVHHQKLVGFAEDVGSNKGAIIGLLVGGVVIA
+>P-2019, amyloid, label=1
+NLKHQPGGGKVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVE
+>P-2020, amyloid, label=1
+MEGLFNAIKDTVTAAINNDGAKLGTSIVSIVENGVGLLGKLFGF
+>P-2021, amyloid, label=1
+MTGLAEAIANTVQAAQQHDSVKLGTSIVDIVANGVGLLGKLFGF
+>P-2022, amyloid, label=1
+KKQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQKK
+>P-2023, amyloid, label=1
+QINSRWWCNDGRTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDGNGMNA
+>P-2024, amyloid, label=1
+SYGGEGIGNVAVAGELPVAGKTAVAGRVPIIGAVGFGGPAGAAGAVSIAGR
+>P-2025, amyloid, label=1
+GSTDYGILQINSRWWCNDGRTPGSRNLCNIPCSALLSSDITASVNCAKKIVSD
+>P-2026, amyloid, label=1
+GQGGGTHNQWNKPSKPKTNMKHMAGAAAAGAVVGGLGYMLGSAMSRPMMHFGNDW
+>P-2027, amyloid, label=1
+GQGGGTHNQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPMMHFGNDW
+>P-2028, amyloid, label=1
+GQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHF
+GSDYE
+>P-2029, amyloid, label=1
+MATLEKLMKAFESLKSFQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQP
+PPPPPPPPPKK
+>P-2030, amyloid, label=1
+GKTKEGVLYVGSKTKEGVVHGVATVAEKTKEQVTNVGGAVVTGVTAVAQKTVEGAGSIAA
+ATGFVKKDQLGKNEEGAPQ
+>P-2031, amyloid, label=1
+DEPPQSPWDRVKDLATVYVDVLKDSRRDYVSQFEGSALGKQLNLKLLDNWDSVTSTFSKL
+REQLGPVTQEFWDNLEKETEGLR
