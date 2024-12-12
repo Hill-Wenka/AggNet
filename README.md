@@ -18,15 +18,57 @@ Download the model checkpoint from the following link and place it in the `./che
 Checkpoint: https://drive.google.com/file/d/1inplkuo_EqtO-HwAs-UXEIhExxDE6uKt/view?usp=sharing
 
 ## Predict amyloid propensity of peptides
+Use Hex142 dataset as an example
 ```
-# use Hex142 dataset as an example
 conda actvate AggNet
 python ./script/predict_amyloid.py --fasta ./data/AmyHex/Hex142.fasta --batch_size 256 --checkpoint ./checkpoint/APNet.ckpt --output ./APNet_results.csv
 ```
+Use CPAD2.0 dataset as an example
+```
+python ./script/predict_amyloid.py --fasta ./data/CPAD2/CPAD2.fasta --batch_size 256 --checkpoint ./checkpoint/APNet.ckpt --output ./APNet_CPAD2_results.csv
+```
+For usage information, run
+```
+python ./script/predict_amyloid.py -h
+
+--------------------------------------------------------------------------------
+
+Predict amyloidogenic peptides using APNet
+
+options:
+  -h, --help            show this help message and exit
+  --fasta FASTA         Path to input fasta file
+  --batch_size BATCH_SIZE
+                        Batch size for prediction
+  --checkpoint CHECKPOINT
+                        Path to model checkpoint
+  --output OUTPUT       Path to save prediction results
+```
 
 ## Profile a protein sequence
+Use WFL VH as an example
 ```
-# use WFL VH as an example
 conda actvate AggNet
 python ./script/predict_APR.py --sequence QVQLVQSGAEVKKPGSSVKVSCKASGGTFWFGAFTWVRQAPGQGLEWMGGIIPIFGLTNLAQNFQGRVTITADESTSTVYMELSSLRSEDTAVYYCARSSRIYDLNPSLTAYYDMDVWGQGTMVTVSS --checkpoint ./checkpoint/APNet.ckpt --output ./APRNet_results.csv
 ```
+For usage information, run
+```
+python ./script/predict_amyloid.py -h
+
+--------------------------------------------------------------------------------
+
+nalyze Aggregation Profile or Identify APR of Proteins using APRNet
+
+options:
+  -h, --help            show this help message and exit
+  --sequence SEQUENCE   Protein sequence to be profiled, default is WFL VH
+  --structure STRUCTURE
+                        Path to PDB file of the protein structure
+  --checkpoint CHECKPOINT
+                        Path to model checkpoint
+  --output OUTPUT       Path to save prediction results
+```
+
+## Easy Start With Jupyter Notebook
+1. see `./example.ipynb` for a quick start with Jupyter Notebook.
+2. see `./CPAD2.ipynb` for the analysis of predictions on CPAD2.0 dataset.

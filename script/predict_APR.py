@@ -10,7 +10,7 @@ from model.APNet.data_module import DataModule
 from model.APNet.lightning_module import LightningModule
 from utils.lightning import LitModelInference
 
-parser = argparse.ArgumentParser(description='Predict amyloidogenic peptides using APNet')
+parser = argparse.ArgumentParser(description='Analyze Aggregation Profile or Identify APR of Proteins using APRNet')
 parser.add_argument('--sequence', type=str, default='QVQLVQSGAEVKKPGSSVKVSCKASGGTFWFGAFTWVRQAPGQGLEWMGGIIPIFGLTNLAQNFQGRVTITADESTSTVYMELSSLRSEDTAVYYCARSSRIYDLNPSLTAYYDMDVWGQGTMVTVSS',
                     help='Protein sequence to be profiled, default is WFL VH')
 parser.add_argument('--structure', type=str, default=None,
