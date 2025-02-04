@@ -6,6 +6,23 @@ from torch.utils.data import DataLoader
 
 from utils.dataset import ProteinDataset
 from utils.dataset.Tokenizer import ProteinTokenizer
+from utils.wrapper import ESM
+
+
+def constrcut_dataset(peptides):
+    pred_dataset = ProteinDataset('./pred_dataset', sequence=peptides)
+    df = pred_dataset.metadata
+    pred_dataset.run_wrapper('esm',
+                             ESM.ESMWrapper,
+                             include='per_tok',
+                             repr_layers='33',
+                             result_key='esm_embedding',
+                             result_type='features')
+    tokenizer = ProteinTokenizer()
+    onehots = tokenizer.encode_one_hot(df.sequence)
+    aaindex = tokenizer.aaindex.batch_encode(df.sequence)
+    pred_dataset.add_feature({'onehot': onehots, 'aaindex': aaindex})
+    return pred_dataset
 
 
 class DataModule(L.LightningDataModule):
@@ -177,7 +194,7 @@ class DataModule(L.LightningDataModule):
             self.predict_dataset = self.dataset.construct_subset(self.predict_index, 'predict_dataset')
 
         if sequence is not None:
-            self.predict_dataset = ProteinDataset('predict_dataset', sequence=sequence, **kwargs)
+            self.predict_dataset = constrcut_dataset(sequence)
             self.predict_dataset.metadata['label'] = 0
 
         if dataset is not None:
@@ -195,4 +212,5 @@ class DataModule(L.LightningDataModule):
         if self.log:
             print('[prepare custom predict dataset]', len(self.predict_dataset))
 
-        self.selected_aaindex = torch.load(self.config.cache.selected_aaindex, weights_only=False)
+        self.selected_aaindex =  torch.load('./checkpoint/selected_aaindex.pt', weights_only=False)
+
