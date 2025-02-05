@@ -156,10 +156,12 @@ class DataModule(L.LightningDataModule):
         batch_labels = torch.tensor([item['label'] for item in batch], dtype=torch.int64)
         batch_seqs = [item['sequence'] for item in batch]
         batch_ids, batch_seqs, batch_tokens = self.tokenizer.tokenize(batch_seqs)
-        batch_embeddings = None
+
         # batch_embeddings = torch.stack([self.seq2esm[seq] for seq in batch_seqs]).float() if self.seq2esm is not None else None
         # batch_aaindex = torch.stack(
         #     [self.seq2aaindex[seq] for seq in batch_seqs]).float() if self.seq2aaindex is not None else None
+
+        batch_embeddings = None
         batch_aaindex = self.tokenizer.aaindex.batch_encode(batch_seqs)[:, self.selected_aaindex]
         batch_aaindex = torch.from_numpy(batch_aaindex).float()
 
@@ -194,7 +196,8 @@ class DataModule(L.LightningDataModule):
             self.predict_dataset = self.dataset.construct_subset(self.predict_index, 'predict_dataset')
 
         if sequence is not None:
-            self.predict_dataset = constrcut_dataset(sequence)
+            # self.predict_dataset = constrcut_dataset(sequence)
+            self.predict_dataset = ProteinDataset('predict_dataset', sequence=sequence, **kwargs)
             self.predict_dataset.metadata['label'] = 0
 
         if dataset is not None:
@@ -212,5 +215,4 @@ class DataModule(L.LightningDataModule):
         if self.log:
             print('[prepare custom predict dataset]', len(self.predict_dataset))
 
-        self.selected_aaindex =  torch.load('./checkpoint/selected_aaindex.pt', weights_only=False)
-
+        self.selected_aaindex = torch.load('./checkpoint/selected_aaindex.pt', weights_only=False)
