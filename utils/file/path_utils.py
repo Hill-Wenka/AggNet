@@ -26,3 +26,8 @@ def list_file(base, absolute=False):
         return [os.path.join(base, f) for f in os.listdir(base) if os.path.isfile(os.path.join(base, f))]
     else:
         return [f for f in os.listdir(base) if os.path.isfile(os.path.join(base, f))]
+
+
+def get_basename(path, suffix=False):
+    # 获取文件名
+    return os.path.basename(path) if suffix else os.path.splitext(os.path.basename(path))[0]
