@@ -26,6 +26,7 @@ python ./script/predict_amyloid.py --fasta ./data/AmyHex/Hex142.fasta --batch_si
 ```
 Use CPAD2.0 dataset as an example
 ```
+conda actvate AggNet
 python ./script/predict_amyloid.py --fasta ./data/CPAD2/CPAD2.fasta --batch_size 256 --checkpoint ./checkpoint/APNet.ckpt --output ./APNet_CPAD2_results.csv
 ```
 For usage information, run
